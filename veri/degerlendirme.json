@@ -1,0 +1,22 @@
+[
+  {"metin":"Kuantum mekaniği ve dalga fonksiyonu hakkında bilgi arıyorum.","genel_konu":"Bilim","alt_konular":["Bilim > Kuantum Mekaniği"]},
+  {"metin":"Foton dolanıklığı nasıl açıklanır?","genel_konu":"Bilim","alt_konular":["Bilim > Kuantum Mekaniği"]},
+  {"metin":"Biyoloji alanında hücre yapısını öğrenmek istiyorum.","genel_konu":"Bilim","alt_konular":["Bilim > Biyoloji"]},
+  {"metin":"Organizma ve hücre ilişkisi biyolojide incelenir.","genel_konu":"Bilim","alt_konular":["Bilim > Biyoloji"]},
+  {"metin":"Genetik ve kromozomlar hakkında bir sunum hazırlıyorum.","genel_konu":"Bilim","alt_konular":["Bilim > Genetik"]},
+  {"metin":"DNA mutasyonu ve kalıtım ilişkisini merak ediyorum.","genel_konu":"Bilim","alt_konular":["Bilim > Genetik"]},
+  {"metin":"Kuantum bilgisayarlarda kübit sayısı neden önemlidir?","genel_konu":"Teknoloji","alt_konular":["Teknoloji > Kuantum Bilgisayarlar"]},
+  {"metin":"Kuantum işlemci ve kuantum hesaplama teknolojileri gelişiyor.","genel_konu":"Teknoloji","alt_konular":["Teknoloji > Kuantum Bilgisayarlar"]},
+  {"metin":"Java ile Python programlama dillerini karşılaştırıyorum.","genel_konu":"Teknoloji","alt_konular":["Teknoloji > Programlama Dilleri"]},
+  {"metin":"Kotlin ve Swift programlama öğrenmek için uygun mu?","genel_konu":"Teknoloji","alt_konular":["Teknoloji > Programlama Dilleri"]},
+  {"metin":"Büyük dil modelleri ve yapay zeka hakkında konuşalım.","genel_konu":"Teknoloji","alt_konular":["Teknoloji > Yapay Zeka"]},
+  {"metin":"ChatGPT gibi sohbet robotları nasıl çalışır?","genel_konu":"Teknoloji","alt_konular":["Teknoloji > Yapay Zeka"]},
+  {"metin":"Kitaplar hakkında öneriler arıyorum.","genel_konu":"Edebiyat ve Kitaplar","alt_konular":["Edebiyat ve Kitaplar > Kitaplar"]},
+  {"metin":"Kitap okumayı alışkanlık haline getirdim.","genel_konu":"Edebiyat ve Kitaplar","alt_konular":["Edebiyat ve Kitaplar > Kitaplar"]},
+  {"metin":"Roman karakterlerinin hikayeleri çok ilginç.","genel_konu":"Edebiyat ve Kitaplar","alt_konular":["Edebiyat ve Kitaplar > Roman"]},
+  {"metin":"Roman okumaya nereden başlamalıyım?","genel_konu":"Edebiyat ve Kitaplar","alt_konular":["Edebiyat ve Kitaplar > Roman"]},
+  {"metin":"Fizik, kimya, biyoloji, genetik, astronomi, jeoloji, ekoloji ve matematik hakkında araştırma yapıyorum.","genel_konu":"Bilim","alt_konular":["Bilim > Fizik","Bilim > Kimya","Bilim > Biyoloji","Bilim > Genetik","Bilim > Astronomi","Bilim > Jeoloji","Bilim > Ekoloji","Bilim > Matematik"]},
+  {"metin":"Merhaba, teşekkür ederim.","genel_konu":null,"alt_konular":[]},
+  {"metin":"Zorbelyum nedir?","genel_konu":null,"alt_konular":[]},
+  {"metin":"Bilimsel araştırmalar hakkında bilgi edinmek istiyorum.","genel_konu":"Bilim","alt_konular":[]}
+]

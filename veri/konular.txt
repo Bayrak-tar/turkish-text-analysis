@@ -1,0 +1,1352 @@
+# Konu agaci
+# [Genel Konu] satirindan sonra gelen satirlar o genel konuya aittir.
+# "*: " satiri genel konunun kendi anahtar kelimeleridir.
+# "Alt Konu: kelime, kelime, ..." seklinde alt konular tanimlanir.
+# Kelimeler kok halinde yazilir (kitap, bilim, hucre ...). Bosluklu ifadeler kelime grubu olarak aranir.
+# 3 harf ve daha kisa kelimeler ile basina ! konulan kelimeler sadece cekim ekleriyle eslesir.
+
+[Bilim]
+*: bilim, bilimsel, bilim insan, bilimadam, araştırma, laboratuvar, keşif, bilimsel makale, bilim dal, bilimsel çalışma, akademisyen, bilim tarih
+Bilimsel Yöntem: bilimsel yöntem, deney, deney sonuç, deney tasarım, hipotez, teori, gözlem, kontrol grup, değişken, bağımlı değişken, bilimsel araştırma, veri topla, tekrarlanabilir
+Fizik: fizik, fizikçi, kuvvet, ivme, kütle, yerçekimi, newton, momentum, sürtünme, elektrik akım, manyetik alan, mekanik
+Kuantum Mekaniği: kuantum, kuantum mekanik, kuantum fizik, dolanıklık, süperpozisyon, parçacık, foton, dalga fonksiyon, heisenberg, schrödinger, belirsizlik ilke
+Görelilik Kuramı: görelilik, einstein, uzay zaman, ışık hız, zaman genişleme, kütleçekim dalga, özel görelilik, genel görelilik
+Kimya: kimya, kimyasal, element, molekül, atom, reaksiyon, tepkime, asit, periyodik tablo, bileşik, çözelti, kimyager
+Organik Kimya: organik kimya, karbon, hidrokarbon, polimer, ester, benzen, alkan, alken
+Biyoloji: biyoloji, biyolog, hücre, organizma, canlı, doku, metabolizma, enzim, biyolojik
+Genetik: genetik, gen, dna, rna, kromozom, mutasyon, kalıtım, genom, crispr, mendel, genetik yapı, genetik kod
+Evrim: evrim, darwin, doğal seçilim, adaptasyon, ortak ata, türleşme, evrimsel
+Mikrobiyoloji: mikrobiyoloji, bakteri, virüs, mikrop, mikroorganizma, antibiyotik direnç, patojen
+Ekoloji: ekoloji, ekosistem, besin zincir, habitat, popülasyon, ekolojik denge
+Astronomi: astronomi, astronom, gezegen, yıldız, galaksi, teleskop, güneş sistem, gökada, takımyıldız, ay tutulma, güneş tutulma, dolunay, gökyüz, kuyruklu yıldız
+Uzay Araştırmaları: uzay, nasa, roket, astronot, uydu, mars, uzay istasyon, spacex, uzay mekik, uzay araştırma, ay görev
+Kozmoloji: kozmoloji, büyük patlama, kara delik, evren, karanlık madde, karanlık enerji, kuasar, nötron yıldız
+Jeoloji: jeoloji, kaya, mineral, yer kabuk, tektonik, levha, magma, tortul, jeolog
+Meteoroloji: meteoroloji bilim, atmosfer, atmosfer basınç, hava kütle, cephe sistem, iklim model, atmosfer bilim
+Oşinografi: oşinografi, okyanus akıntı, gelgit, deniz taban, deniz suyu, deniz bilim
+Matematik: matematik, denklem, geometri, cebir, türev, integral, fonksiyon, teorem, ispat, asal sayı, olasılık, trigonometri, matematikçi, aritmetik, aritmetik işlem, dört işlem, toplama işlem, çıkarma işlem, çarpma işlem, bölme işlem, çarpım tablo, işlem önceliği, karekök, küpkök, üslü sayı, faktöriyel, logaritma, mutlak değer, kesir, payda, ondalık sayı, çift sayı, tek sayı, çarpan, bölen, katsayı, ebob, ekok, yüzde hesap, oran orantı, hesap makine, matematik problem, çözüm kümesi, sayı kümesi, küme işlem, kesişim, birleşim, permütasyon, kombinasyon, matris, determinant, sinüs, kosinüs, tanjant, kotanjant, radyan, limit süreklilik, asimptot, ters fonksiyon, bileşke fonksiyon, fonksiyon grafik, apsis, ordinat, koordinat düzlem, tam sayı, doğal sayı, rasyonel sayı, irrasyonel sayı, sayı basamak, sayı dizi
+Analiz ve Kalkülüs: kalkülüs, matematiksel analiz, diferansiyel, diferansiyel denklem, türev al, integral al, belirli integral, belirsiz integral, limit süreklilik, taylor serisi, sonsuz küçük, maksimum minimum, türevlenebilir, seri toplam, değişim oran, kısmi türev
+Cebir ve Polinomlar: cebir, cebirsel ifade, polinom, özdeşlik, çarpanlara ayır, eşitsizlik, ikinci derece denklem, birinci derece denklem, diskriminant, parabol, köklü ifade, denklem sistem, bilinmeyen denklem, kök bul, çarpanlara ayırma
+Geometri: geometri, üçgen, dörtgen, çokgen, paralelkenar, yamuk, dikdörtgen, kare alan, çember, daire alan, dik açı, dar açı, geniş açı, açıortay, kenarortay, köşegen, alan hesap, çevre hesap, pisagor, hipotenüs, prizma, piramit, silindir, koni, küre hacim, eşkenar üçgen, ikizkenar üçgen, simetri, yarıçap, çap uzunluk
+İstatistik: istatistik, standart sapma, veri analiz, örneklem, regresyon, dağılım, anket, istatistiksel
+Nörobilim: nörobilim, beyin, nöron, sinir sistem, sinaps, bilinç, beyin dalga
+Bitkiler ve Botanik: botanik, bitki, fotosentez, yaprak, çiçek, polen, klorofil, bitki tür, şifalı bitki, tıbbi bitki, yabani bitki, yabani ot, endemik bitki, ebegümeci, ısırgan, papatya, lavanta, adaçayı, biberiye, ıhlamur, kantaron, yosun, eğrelti, sarmaşık, kök, gövde
+Zooloji: zooloji, memeli, omurgalı, omurgasız, hayvan tür, hayvan davranış
+Paleontoloji: paleontoloji, dinozor, fosil, mamut, jura, tarih öncesi
+Nükleer Fizik: nükleer fizik, fisyon, füzyon, radyoaktif, radyasyon, izotop, cern, parçacık hızlandırıcı
+Optik: optik, ışık, mercek, kırılma, yansıma, lazer, prizma, spektrum, gökkuşağı, ışığın kırılma, renk tayf, beyaz ışık, dalga boy
+Termodinamik: termodinamik, entropi, ısı, enerji korunum, ısı transfer, mutlak sıfır
+Elektromanyetizma: elektromanyetik, elektromanyetizma, maxwell, elektrik alan, manyetizma, indüksiyon
+Parçacık Fiziği: parçacık fizik, cern, higgs, bozon, kuark, hızlandırıcı, nötrino, elektron, proton
+Biyokimya: biyokimya, protein sentez, amino asit, karbonhidrat, lipit, hormon, atp
+Anatomi ve Fizyoloji: anatomi, fizyoloji, organ, iskelet sistem, dolaşım sistem, solunum sistem, kas doku
+Moleküler Biyoloji: moleküler biyoloji, gen ifade, protein katlanma, rna aşı, pcr, hücre bölünme, mitoz, mayoz
+Güneş Sistemi: güneş sistem, merkür, venüs, jüpiter, satürn, uranüs, neptün, plüton, asteroit, cüce gezegen
+Ötegezegenler ve Yaşam Arayışı: ötegezegen, dünya dışı yaşam, uzaylı, seti, yaşanabilir gezegen, james webb
+Kaos ve Karmaşıklık: kaos teori, kelebek etki, fraktal, karmaşık sistem
+Sayılar Teorisi: sayı teori, asal sayı, fibonacci, pi sayı, sonsuzluk, riemann
+Bilim İnsanları: marie curie, tesla, darwin, galileo, isaac newton, stephen hawking, aziz sancar, cahit arf, feynman
+Nanoteknoloji: nanoteknoloji, nano, grafen, nanomalzeme, nanoparçacık
+Akustik ve Ses: akustik, ses dalga, frekans, desibel, ultrason, rezonans
+Bilimsel Yayıncılık: hakemli dergi, bilimsel yayın, makale yayın, atıf, nature dergi, science dergi, tübitak
+
+[Teknoloji]
+*: teknoloji, teknolojik, cihaz, dijital, inovasyon, elektronik, bilgisayar, internet, yazılım, donanım, bilişim, teknoloji haber, gadget, uygulama, yapay zeka, internet sitesi
+Yapay Zeka: yapay zeka, ai, chatgpt, dil model, sohbet robot, gpt, üretken yapay zeka, sinir ağ, gemini, büyük dil model
+Makine Öğrenmesi: makine öğrenme, derin öğrenme, model eğit, veri set, sınıflandırma, algoritma, tensorflow, pytorch, eğitim veri
+Kuantum Bilgisayarlar: kuantum bilgisayar, kübit, qubit, kuantum hesaplama, kuantum işlemci, kuantum algoritma, kuantum üstünlük, kuantum, kuantum şifreleme
+Yazılım Geliştirme: yazılım geliştirme, yazılımcı, kod, kodlama, debug, hata ayıklama, git, github, framework, api, yazılım mühendis
+Programlama Dilleri: programlama, python, java, javascript, csharp, kotlin, swift, rust, golang, php, derleyici, programlama dil
+Web Geliştirme: web site, html, css, frontend, backend, react, tarayıcı, alan adı, hosting, web tasarım
+Mobil Uygulamalar: mobil uygulama, android, ios, uygulama mağaza, app store, google play
+Siber Güvenlik: siber güvenlik, hacker, hack, zararlı yazılım, fidye yazılım, parola, kimlik avı, oltalama, güvenlik açık, firewall, güvenlik duvar, veri sızıntı, siber saldırı
+Ağ Güvenliği: ağ güvenlik, ipsec, vpn tünel, ssl, tls, https, ids, ips sistem, ddos, port tara, sızma test, penetrasyon test, şifreleme, kriptografi, sertifika ssl, proxy
+Veri Bilimi: veri bilim, büyük veri, veri görselleştirme, pandas, veri madencilik, veri bilimci
+Bulut Bilişim: bulut bilişim, aws, azure, sunucu, veri merkez, sanallaştırma, kubernetes, docker
+Blokzincir: blokzincir, blockchain, blok zincir, akıllı sözleşme, nft, web3
+Robotik: robot, robotik, otomasyon, robot kol, insansı robot, sensör
+Nesnelerin İnterneti: nesnelerin internet, iot, akıllı cihaz, arduino, raspberry
+Akıllı Telefonlar: telefon, akıllı telefon, iphone, samsung, xiaomi, şarj, batarya, telefon kamera
+Bilgisayar Donanımı: işlemci, ekran kart, anakart, ram, ssd, harddisk, laptop, dizüstü, masaüstü bilgisayar, klavye, mouse, monitör, intel, amd, nvidia
+Oyun Geliştirme: oyun geliştirme, oyun motor, unity, unreal, oyun tasarım, indie oyun
+Sanal Gerçeklik: sanal gerçeklik, artırılmış gerçeklik, vr, metaverse, oculus, vr gözlük
+Telekomünikasyon: 5g, telekomünikasyon, operatör, fiber, internet hız, modem, baz istasyon, turkcell, vodafone, türk telekom
+Yarı İletkenler: yarı iletken, çip, mikroçip, transistör, silikon, tsmc, çip üretim
+Veritabanları: veritabanı, veri taban, sql, mysql, postgresql, sqlite, mongodb, sorgu
+İşletim Sistemleri: işletim sistem, windows, linux, macos, ubuntu, sistem güncelleme
+Bilgisayar Kullanımı ve Kısayollar: kısayol, klavye kısayol, kısayol tuş, ctrl, kopyala yapıştır, ekran görüntü al, dosya yönetim, sağ tık
+Otonom Araçlar: otonom araç, sürücüsüz, sürücüsüz araç, otopilot, lidar
+Drone Teknolojisi: drone, dron, quadcopter, drone çekim
+3D Yazıcılar: 3d yazıcı, üç boyutlu yazıcı, filament, 3d baskı, 3d model
+Giyilebilir Teknoloji: akıllı saat, akıllı bileklik, giyilebilir, apple watch
+Büyük Dil Modelleri: chatgpt, sohbet bot, dil model, büyük dil model, llm, claude, gemini, prompt, üretken yapay zeka
+Görüntü İşleme: görüntü işleme, bilgisayarlı görü, yüz tanıma, nesne tanıma, opencv, görüntü tanıma, görüntü sınıflandırma, nesne tespit, evrişimli sinir ağ, cnn
+İnternet ve Bağlantı: internet bağlantı, modem, wifi, fiber, internet hız, router, ping, kablosuz ağ, internet paket
+E-posta ve Mesajlaşma: eposta, mail, gmail, outlook, whatsapp, telegram, mesajlaşma uygulama
+Şifreler ve Hesap Güvenliği: şifre, parola, iki adımlı doğrulama, hesap çalın, hesap hack, şifre yönetici, oltalama, phishing
+Bilgisayar Sorunları: bilgisayar yavaş, mavi ekran, format at, sürücü güncelle, virüs temizle, bilgisayar donma, bilgisayar açılmıyor
+Dizüstü ve Masaüstü Bilgisayarlar: laptop, dizüstü, masaüstü bilgisayar, macbook, notebook, monitör, klavye, fare, pc, bilgisayar al, bilgisayar tavsiye, bilgisayar öner, oyun bilgisayar, bilgisayar topla, all in one
+Tablet ve Akıllı Saat: tablet, ipad, akıllı saat, apple watch, akıllı bileklik
+Ses ve Görüntü Sistemleri: kulaklık, hoparlör, bluetooth, televizyon ekran, oled, projeksiyon, soundbar, airpods
+Fotoğraf Makineleri ve Kamera: fotoğraf makine, dslr, aynasız, lens, objektif, aksiyon kamera, gopro
+Açık Kaynak ve Linux: açık kaynak, linux, ubuntu, github, git
+Yazılım Test ve DevOps: yazılım test, birim test, devops, docker, kubernetes, ci cd, sürüm kontrol
+API ve Arka Uç: api, backend, arka uç, web sunucu, sunucu kira, rest api, mikroservis, veri tabanı sorgu
+Teknoloji Şirketleri: apple, google, microsoft, meta, tesla, nvidia, samsung şirket, openai, anthropic, teknoloji şirket, yazılım şirket, akınsoft, logo yazılım, netsis, mikro yazılım, turkcell, türk telekom, vodafone, havelsan, amazon şirket, ibm, intel, amd, huawei, xiaomi şirket
+Yazılım Güncellemeleri: güncelleme, sürüm, yama, ios güncelle, android güncelle, yeni sürüm
+Veri Depolama: harddisk, ssd, usb bellek, flash bellek, yedekleme, bulut depolama, google drive, flashdisk, flash disk, hafıza kart, depolama alan
+Kodlama Eğitimi: kodlama öğren, yazılım öğren, bootcamp, kodlama kurs, algoritma öğren, leetcode
+Kripto Teknolojisi: akıllı sözleşme, ethereum ağ, web3, nft, merkeziyetsiz
+Uydu İnterneti ve Uzay Teknolojisi: starlink, uydu internet, uydu teknoloji, gps
+
+[Sağlık]
+*: sağlık, sağlıklı, hastalık, hasta, doktor, hekim, tedavi, tıp, tıbbi, hastane, muayene, belirti, semptom, ağrı, rahatsızlık, ilaç, hastalan, iyileş, sağlık sorun, check up, tahlil, kan tahlil, reçete
+Kalp Sağlığı: kalp, kalbi, kalp kriz, damar, kolesterol, kardiyoloji, ritim bozukluk, bypass, anjiyo, stent
+Diyabet: diyabet, şeker hastalık, insülin, kan şeker, glikoz, hba1c
+Kanser: kanser, tümör, kemoterapi, radyoterapi, onkoloji, metastaz, biyopsi
+Diyet ve Beslenme: diyet, beslenme, kalori, vitamin, protein, karbonhidrat, sağlıklı beslenme, diyetisyen, öğün
+Ruh Sağlığı: ruh sağlık, psikiyatri, psikiyatrist, antidepresan, bipolar, şizofreni, obsesif
+Diş Sağlığı: diş, dişçi, diş hekim, diş çürük, dolgu, kanal tedavi, diş fırça, diş eti, implant, ortodonti, diş tel
+Kulak Burun Boğaz: kulak, boğaz ağrı, boğaz enfeksiyon, kulak ağrı, kbb, bademcik, işitme kayıp, kulak çınlama, geniz eti, burun tıkanık
+Göz Sağlığı: göz, gözlük, lens, katarakt, miyop, hipermetrop, astigmat, göz doktor, görme bozukluk, görme kayıp
+Bağışıklık Sistemi: bağışıklık, bağışıklık sistem, antikor, lenf, otoimmün
+Aşılar: aşı, aşılama, aşı takvim, hpv aşı, aşı karşıt
+Salgın Hastalıklar: salgın, pandemi, covid, korona, koronavirüs, karantina, maske, epidemi, vaka sayı
+Grip ve Soğuk Algınlığı: grip, nezle, soğuk algınlık, öksürük, boğaz ağrı, burun akıntı, hapşırık
+Uyku: uyku, uykusuzluk, insomnia, uyku apne, horlama, rüya, melatonin, uyku düzen
+Hamilelik: hamile, hamilelik, gebelik, doğum, sezaryen, bebek bekle, ultrason
+Çocuk Sağlığı: çocuk doktor, pediatri, çocuk hastalık, kızamık, suçiçeği, çocuk aşı, çocuk ateş, bebek ateş, ateş düşür
+Yaşlı Sağlığı: alzheimer, demans, bunama, parkinson, osteoporoz, kemik erime
+Cilt Sağlığı: cilt hastalık, egzama, sedef, akne, sivilce, dermatoloji, dermatolog, güneş yanık
+Alerji: alerji, alerjik, polen alerji, astım, bahar nezle, histamin, antihistaminik
+Obezite: obezite, obez, fazla kilo, kilo, vücut kitle, kilo ver
+Baş Ağrısı ve Migren: baş ağrı, migren, ağrı kesici, sinüzit
+İlaçlar: ilaç, eczane, eczacı, reçete, antibiyotik, yan etki, doz, hap
+Ameliyat ve Cerrahi: ameliyat, cerrahi, cerrah, anestezi, narkoz, ameliyathane
+Alternatif Tıp: alternatif tıp, bitkisel tedavi, akupunktur, homeopati, hacamat, fitoterapi
+Bağımlılık: sigara, alkol bağımlılık, bağımlılık, madde bağımlılık, nikotin, sigara bırak
+Tansiyon: tansiyon, yüksek tansiyon, hipertansiyon, düşük tansiyon, kan basınç
+Böbrek Sağlığı: böbrek, böbrek taşı, diyaliz, idrar, üroloji
+Sindirim Sistemi: mide, bağırsak, sindirim, reflü, gastrit, ülser, kabızlık, ishal, karaciğer, safra
+Kas ve İskelet Sağlığı: kaslar, kas ağrı, kemik, eklem, bel ağrı, fıtık, bel fıtık, boyun fıtık, romatizma, fizik tedavi, omurga, skolyoz
+İlk Yardım: ilk yardım, kalp masaj, suni solunum, yaralı, turnike, acil servis, ambulans
+Solunum Yolu Hastalıkları: astım, bronşit, zatürre, koah, nefes darlık, öksürük, akciğer, balgam
+Tiroid ve Hormonlar: tiroid, hipotiroid, hipertiroid, haşimoto, hormon bozukluk, guatr
+Kadın Sağlığı: jinekolog, adet dönem, adet sancı, regl, menopoz, rahim, yumurtalık, kadın doğum, polikistik over, smear
+Erkek Sağlığı: üroloji, prostat, erkek sağlık, testosteron
+Nörolojik Hastalıklar: alzheimer, parkinson, epilepsi, multipl skleroz, demans, nöroloji, felç, inme
+Mide ve Bağırsak: mide, gastrit, reflü, ülser, bağırsak, kabız, ishal, hazımsızlık, mide bulantı, kolonoskopi, endoskopi
+Karaciğer Sağlığı: karaciğer, hepatit, siroz, yağlı karaciğer, safra kese
+Kan Hastalıkları: kansızlık, anemi, demir eksiklik, lösemi, kan değer, hemoglobin, trombosit
+Vitaminler ve Takviyeler: vitamin, d vitamin, b12, takviye, multivitamin, magnezyum, omega 3, çinko
+Fizik Tedavi ve Rehabilitasyon: fizik tedavi, fizyoterapi, rehabilitasyon, fizyoterapist
+Bel ve Boyun Sorunları: bel ağrı, boyun ağrı, bel fıtık, boyun fıtık, omurga, skolyoz, duruş bozukluk
+Eklem ve Romatizma: romatizma, eklem ağrı, kireçlenme, artrit, gut, menisküs, diz ağrı
+Enfeksiyon Hastalıkları: enfeksiyon, tüberküloz, verem, sıtma, kızamık, suçiçek, hepatit b, idrar yol enfeksiyon
+Covid 19: covid, koronavirüs, pandemi, karantina, pcr test, maske tak, sosyal mesafe, korona, korona virüs, korono, korono virüs, kovid, omicron, delta varyant
+Sigara ve Tütün: sigara, sigara bırak, tütün, nikotin, elektronik sigara, puro, nargile
+Estetik Cerrahi: estetik ameliyat, burun estetik, botoks, dolgu estetik, liposakşın, saç ekim, plastik cerrahi
+Hastane ve Randevu: mhrs, hastane randevu, acil servis, poliklinik, sevk, sgk, özel hastane, devlet hastane
+Eczane ve Reçete: eczane, eczacı, nöbetçi eczane, reçete, ilaç yan etki, prospektüs
+Kalıtsal ve Nadir Hastalıklar: sma, kistik fibroz, nadir hastalık, genetik hastalık, down sendrom
+Ateş ve Enfeksiyon Belirtileri: ateş, titreme, halsizlik, yorgunluk, baş dönme
+Organ Nakli ve Kan Bağışı: organ nakil, organ bağış, kan bağış, kızılay kan, ilik bağış, donör
+Sağlıklı Yaşam: sağlıklı yaşam, egzersiz, su iç, adım say, zinde, sağlıklı alışkanlık
+
+[Psikoloji]
+*: psikoloji, psikolog, psikolojik, ruh hal, duygu, davranış, zihin, ruhsal, ruh sağlık, psikiyatri, psikiyatrist, zihinsel
+Stres: stres, stresli, gergin, gerginlik, tükenmişlik, rahatla
+Depresyon: depresyon, depresif, mutsuz, umutsuz, isteksiz, çökkün
+Kaygı ve Anksiyete: kaygı, anksiyete, endişe, panik atak, fobi, korku, sosyal fobi
+Motivasyon: motivasyon, motive, azim, disiplin, erteleme, ilham, hedef belirle
+Kişisel Gelişim: kişisel gelişim, özdisiplin, alışkanlık, verimlilik, zaman yönetim, farkındalık, mindfulness
+Duygusal Zeka: duygusal zeka, empati, duygu kontrol, iletişim beceri, sosyal beceri
+Terapi ve Danışmanlık: terapi, terapist, psikoterapi, bilişsel davranışçı, psikolojik danışman, seans
+Çocuk Psikolojisi: çocuk psikoloji, öfke nöbet, çocuk davranış, dikkat eksiklik, hiperaktivite, otizm
+Özgüven: özgüven, kendine güven, özsaygı, utangaç, çekingen
+Yalnızlık: yalnız, yalnızlık, izole, sosyal izolasyon, dışlan
+Mutluluk: mutluluk, mutlu, huzur, pozitif psikoloji, şükran, yaşam doyum
+Öfke Yönetimi: öfke, kızgın, sinirlen, agresif, saldırgan, öfke kontrol
+Travma: travma, travmatik, tssb, travma sonrası
+Kişilik: kişilik, kişilik tip, içedönük, dışadönük, mbti, karakter
+Hafıza ve Dikkat: hafıza, unutkanlık, konsantrasyon, odaklanma, dikkat dağınıklık
+Panik Atak: panik atak, panik bozukluk, çarpıntı kaygı, nefes kesilme
+Obsesif Kompulsif Bozukluk: okb, obsesif, kompulsif, takıntı, saplantı
+DEHB ve Dikkat Eksikliği: dehb, dikkat eksiklik, hiperaktivite, odaklanma sorun
+Otizm Spektrumu: otizm, otistik, asperger, otizm spektrum
+Bipolar Bozukluk: bipolar, manik, mani, duygu durum bozukluk
+Tükenmişlik: tükenmişlik, burnout, bitkinlik, iş stres
+Erteleme ve Verimlilik: erteleme, ertele, üşengeç, disiplin, alışkanlık, verimli çalış, ertel, suçlu hisset
+Rüyalar ve Uyku Psikolojisi: rüya, kabus, rüya yorum, bilinçaltı, lucid rüya
+Farkındalık ve Meditasyon: meditasyon, mindfulness, farkındalık, nefes egzersiz, bilinçli farkındalık
+Yas ve Kayıp: yas tut, yas süreç, kayıp acı, vefat acı, özlem
+Kıskançlık ve Duygular: kıskançlık, kıskanç, haset, utanç, suçluluk, pişmanlık
+Narsisizm ve Toksik İlişkiler: narsist, narsisizm, toksik ilişki, manipülasyon, gaslighting, duygusal istismar, manipüle
+Bağlanma Stilleri: bağlanma stil, kaçıngan bağlanma, kaygılı bağlanma, güvenli bağlanma
+Sosyal Kaygı: sosyal fobi, sosyal kaygı, utangaç, içe kapanık, çekingen
+Yeme Bozuklukları: yeme bozukluk, anoreksiya, bulimiya, tıkınırcasına yeme, beden algı
+Sosyal Psikoloji: sosyal psikoloji, sürü psikoloji, önyargı, uyum deney, milgram
+Bilişsel Psikoloji: bilişsel psikoloji, algı, öğrenme psikoloji, bilişsel çarpıtma, karar verme
+Psikolojik Testler: kişilik test, mbti, iq test, zeka test, psikolojik test, enneagram
+Fobiler: fobi, yükseklik korku, klostrofobi, örümcek korku, korku bozukluk
+
+[Spor]
+*: spor, sporcu, antrenman, antrenör, maç, takım, lig, şampiyon, şampiyonluk, turnuva, madalya, skor, rakip, kupa, sporsever, fikstür, puan durum, final, teknik direktör, hoca spor, yarı final, müsabaka, idman, sezon, kondisyon
+Futbol: futbol, futbolcu, gol, golü, goller, penaltı, ofsayt, kaleci, forvet, süper lig, galatasaray, fenerbahçe, beşiktaş, trabzonspor, milli takım, teknik direktör, transfer, hakem, şampiyonlar lig, stadyum, taraftar
+Basketbol: basketbol, basket, nba, smaç, pota, ribaund, euroleague, üçlük, anadolu efes
+Voleybol: voleybol, filenin sultan, manşet, pasör, libero, vakıfbank
+Tenis: tenis, raket, wimbledon, grand slam, djokovic, nadal, federer
+Yüzme: yüzme, yüzücü, havuz, kulaç, serbest stil, kurbağalama
+Koşu ve Atletizm: koşu, maraton, atletizm, sprint, yarı maraton, cirit, koşucu
+Fitness: fitness, spor salon, ağırlık kaldır, dambıl, vücut geliştirme, bench press, squat, kardiyo, protein toz
+Yoga ve Pilates: yoga, pilates, esneme, nefes egzersiz, asana, reformer
+Bisiklet: bisiklet, pedal, dağ bisiklet, bisiklet tur, bisikletçi
+Boks ve Dövüş Sporları: boks, boksör, kick boks, mma, ufc, nakavt, ring
+Güreş: güreş, güreşçi, yağlı güreş, kırkpınar, pehlivan, serbest güreş, grekoromen
+Uzak Doğu Sporları: karate, tekvando, judo, aikido, kung fu, siyah kuşak
+Formula 1: formula, f1, pit stop, grand prix, verstappen, hamilton, ferrari, yarış pist
+Olimpiyatlar: olimpiyat, olimpiyat oyun, olimpik, paralimpik, altın madalya
+Satranç: satranç, vezir, piyon, şah mat, grandmaster, satranç turnuva, satranç tahta
+E-spor: espor, league of legends, valorant, counter strike, csgo, twitch, espor takım
+Kayak ve Kış Sporları: kayak, snowboard, kayak merkez, uludağ, palandöken, buz paten, kızak, hokey
+Dağcılık ve Tırmanış: dağcı, dağcılık, tırmanış, zirve, everest, kaya tırmanış, bouldering
+Golf: golf, golf sopa, golf saha, tiger woods
+Hentbol: hentbol, hentbolcu
+Masa Tenisi: masa tenis, pinpon
+Okçuluk: okçu, okçuluk, mete gazoz, yay ok
+Su Sporları: sörf, dalış, rafting, kano, kürek, yelken, yelkenli, kitesurf, su kayak
+Doğa Yürüyüşü: doğa yürüyüş, trekking, yürüyüş parkur, hiking, likya yol, patika
+Binicilik: binicilik, at yarış, jokey, at bin, hipodrom
+Amerikan Futbolu ve Beyzbol: amerikan futbol, nfl, super bowl, beyzbol, mlb
+Türk Futbol Kulüpleri: galatasaray, fenerbahçe, beşiktaş, trabzonspor, başakşehir, süper lig, derbi
+Avrupa Futbolu: real madrid, barcelona, manchester, liverpool, bayern, premier lig, la liga, şampiyonlar lig, avrupa lig, uefa
+Milli Takımlar ve Turnuvalar: milli takım, a milli, dünya kupa, avrupa şampiyona, euro 2024, milli maç
+Transferler: transfer, bonservis, sözleşme uzat, kiralık oyuncu, transfer dönem
+Futbol Taktikleri: taktik, diziliş, pres, ofsayt, kontra atak, orta saha, stoper, kanat oyuncu, forvet
+Hakemlik ve VAR: hakem, video hakem, hakem odası, penaltı karar, kırmızı kart, sarı kart, hakem hata
+NBA ve Amerikan Basketbolu: nba, lakers, lebron, curry, alperen şengün, playoff, nba final
+Motor Sporları: motogp, ralli, motokros, drift yarış, pist, yarış pilot
+Halter ve Güç Sporları: halter, powerlifting, deadlift, squat, bench press, naim süleymanoğlu
+Jimnastik: jimnastik, artistik jimnastik, ritmik jimnastik, barfiks, paralel bar
+Eskrim ve Kürek: eskrim, kılıç spor, kürek, kano, rafting
+Sörf ve Kaykay: sörf, kaykay, paten, buz pateni, kaykay park, rüzgar sörf
+Bilardo, Bowling ve Dart: bilardo, bowling, dart, snooker
+Vücut Geliştirme: vücut geliştirme, bodybuilding, kas yap, protein tozu, kreatin, bulk, definasyon
+Spor Sakatlıkları: sakatlık, sakatlan, çapraz bağ, kas yırtık, burkulma, spor yaralanma
+Taraftar Kültürü: taraftar, tribün, ultras, marş, kombine, forma, deplasman
+Kriket ve Rugby: kriket, rugby
+Triatlon ve Dayanıklılık: triatlon, ironman, ultra maraton, dayanıklılık
+Spor Bahisleri: iddaa, spor bahis, kupon, banko maç, bahis sitesi
+Kadın Sporları: kadın futbol, kadın voleybol, sultanlar, filenin sultan
+Paralimpik Sporlar: paralimpik, engelli spor, tekerlekli sandalye basketbol, goalball
+
+[Ekonomi]
+*: ekonomi, ekonomik, piyasa, para, fiyat, zam, bütçe, gelir düzey, aylık gelir, gelir artış, gider, finans, finansal, ekonomist, pahalılık, alım gücü, maliyet, kazanç, tasarruf, harcama
+Borsa: borsa, hisse, hisse senet, bist, endeks, yatırımcı, halka arz, temettü, nasdaq, dow jones
+Kripto Para: kripto, kripto para, bitcoin, ethereum, altcoin, coin, binance, dogecoin, kripto borsa
+Enflasyon: enflasyon, hayat pahalılık, tüfe, üfe, fiyat artış, alım güç, zam oran
+Faiz: faiz, faiz oran, politika faiz, mevduat faiz, faiz karar
+Döviz Kurları: döviz, dolar, euro, sterlin, parite, dolar kur, döviz kur, kur artış
+Altın ve Değerli Metaller: altın fiyat, gram altın, çeyrek altın, ons, gümüş, külçe, altın
+Bankacılık: banka, bankacılık, banka hesap, mevduat, havale, eft, atm, iban, şube
+Krediler ve Borç: kredi, konut kredi, ihtiyaç kredi, taşıt kredi, borç, taksit, kredi not, findeks
+Kredi Kartı ve Ekstre: kredi kart, ekstre, hesap özet, asgari ödeme, son ödeme tarih, kart aidat, nakit avans, kart limit, kart borç
+Vergi: vergi, gelir vergi, kdv, ötv, beyanname, vergi daire, stopaj, vergi borç, maliye
+İşsizlik ve İstihdam: işsizlik, işsiz, istihdam, işgücü, işkur, işten çıkar
+Dış Ticaret: ihracat, ithalat, dış ticaret, gümrük, cari açık, ticaret savaş, ihracatçı
+Merkez Bankası: merkez banka, tcmb, fed, para politika, rezerv, para arz
+Emlak ve Konut: emlak, konut, konut fiyat, satılık, kiralık, tapu, gayrimenkul, emlakçı, arsa
+Sigortacılık: sigorta, kasko, trafik sigorta, sağlık sigorta, poliçe, hayat sigorta, dask
+Emeklilik: emekli, emeklilik, bes, bireysel emeklilik, emekli maaş, sgk, prim gün, eyt
+Kişisel Finans: birikim, tasarruf, harcama, aile bütçe, para biriktir, bütçe plan, borç yönetim
+Yatırım: yatırım, fon, yatırım fon, portföy, getiri, çeşitlendirme, tahvil, eurobond
+E-Ticaret: eticaret, eticaret sektör, pazaryeri, dropshipping, eticaret site
+Girişimcilik: girişim, girişimci, girişimcilik, startup, melek yatırımcı, iş fikir, şirket kur, kuluçka merkez, unicorn
+Küresel Ekonomi: küresel ekonomi, resesyon, ekonomik kriz, imf, dünya banka, ekonomik büyüme, gsyih, milli gelir, durgunluk
+Asgari Ücret: asgari ücret, net asgari, asgari ücret zam, açlık sınır, yoksulluk sınır
+Kamu Maliyesi: kamu maliye, bütçe açık, kamu borç, cari açık, hazine, maliye bakanlık
+Büyüme ve Resesyon: büyüme oran, gsyh, milli gelir, resesyon, durgunluk, kriz, ekonomik kriz, stagflasyon
+Hayat Pahalılığı: market fiyat, hayat pahalılık, zam yağmur, pahalı, geçim sıkıntı, fiyat artış
+Tasarruf ve Birikim: tasarruf, birikim, kumbara, para biriktir, bütçe plan, harcama takip
+Yatırım Fonları: yatırım fon, fon getiri, bes fon, endeks fon, etf, portföy
+Tahvil ve Bono: tahvil, bono, eurobond, hazine bono, kupon faiz
+Halka Arz: halka arz, arz talep toplama, şirket halka arz, ipo
+Fintek: fintek, dijital banka, mobil ödeme, papara, ininal, temassız ödeme, açık bankacılık
+Esnaf ve KOBİ: esnaf, kobi, küçük işletme, dükkan, bakkal, esnaf kredi
+Ticaret Savaşları ve Gümrük: gümrük vergi, ticaret savaş, ambargo, yaptırım ekonomik, ithalat, ihracat
+Petrol Piyasaları: petrol fiyat, brent, opec, varil
+Şirket Birleşme ve Satın Almalar: şirket satın alma, birleşme, satın al, holding, şirket değer, milyar dolar
+Ekonomik Göstergeler: tüfe, üfe, işsizlik oran, tüik, veri açıkla, ekonomik gösterge
+Ekonomi Politikaları: para politika, maliye politika, sıkı para politika, faiz karar, ekonomi program
+Dünya Ekonomisi: abd ekonomi, çin ekonomi, avrupa ekonomi, imf, dünya banka, g20, fed
+Kira ve Konut Fiyatları: kira artış, konut fiyat, ev fiyat, konut kredi, emlak piyasa
+Harçlık ve Cep Harçlığı: harçlık, cep harçlık, burs para, öğrenci bütçe
+
+[İş ve Kariyer]
+*: iş yer, iş yük, iş ara, iş başvuru, işyeri, çalışan, şirket, patron, meslek, kariyer, ofis, iş hayat, işe gir, iş bul, mesai, görev, pozisyon, iş arkadaş, müdür, yönetici, iş teklif
+İş Arama: iş ara, iş arıyor, iş ilan, iş başvuru, linkedin, iş bul, başvuru, iş fırsat, iş imkan
+Mülakat: mülakat, iş görüşme, mülakat soru, işe alım
+Özgeçmiş: özgeçmiş, cv, ön yazı, referans mektup, portfolyo
+Uzaktan Çalışma: uzaktan çalış, evden çalış, remote, hibrit çalışma, home office, zoom
+Liderlik: lider, liderlik, vizyon, ekip yönetim, yönetici, takım lider
+Pazarlama: pazarlama, pazar araştırma, hedef kitle, reklam kampanya, müşteri, pazarlamacı
+Dijital Pazarlama: dijital pazarlama, seo, google ads, sosyal medya pazarlama, içerik pazarlama, eposta pazarlama
+Satış: satış, satışçı, satış temsilci, ciro, satış hedef, pazarlık, bayi
+İnsan Kaynakları: insan kaynak, performans değerlendirme, bordro, yıllık izin, oryantasyon
+Maaş ve Ücretler: maaş, ücret, asgari ücret, prim, ikramiye, maaş artış, net maaş, brüt maaş
+Proje Yönetimi: proje yönetim, scrum, agile, çevik, jira, gantt, teslim tarih
+Muhasebe: muhasebe, muhasebeci, bilanço, fatura, mali müşavir, smmm, gelir tablo, ön muhasebe, muhasebe program, efatura, e fatura, edefter, e defter, earşiv, eirsaliye, cari hesap, stok takip
+Serbest Çalışma: freelance, serbest çalışma, freelancer, upwork, fiverr, proje bazlı
+Kariyer Planlama: kariyer plan, kariyer hedef, meslek seçim, kariyer değişik, terfi
+Staj: staj, stajyer, yaz staj, zorunlu staj, staj yer
+Toplantılar ve Sunumlar: toplantı, sunum, gündem madde, toplantı not, powerpoint
+Müşteri Hizmetleri: müşteri hizmet, çağrı merkez, şikayet, müşteri memnuniyet, destek hat
+Marka Yönetimi: marka, marka değer, logo, kurumsal kimlik, marka bilinirlik
+Lojistik ve Tedarik: lojistik, tedarik zincir, depo, sevkiyat, nakliye
+Depo ve Stok Yönetimi: depo yönetim, stok takip, stok yönetim, mal kabul, sevkiyat, sevk plan, envanter, depo giriş, depo çıkış, barkod sistem, raf düzen, wms, sayım
+İş Yerinde İlişkiler: iş arkadaş, mobbing, ofis politika, iş yer stres
+İstifa ve İşten Çıkarılma: istifa, işten çıkar, kovul, tazminat, ihbar süre, işten ayrıl, kıdem tazminat
+Mobbing: mobbing, iş yeri zorbalık, psikolojik taciz, baskı gör
+Performans Değerlendirme: performans değerlendirme, iş hedef, kpi, okr, terfi
+İş Sağlığı ve Güvenliği: iş güvenlik, iş kaza, isg, iş sağlık, meslek hastalık, baret
+Zaman Yönetimi: zaman yönetim, planlama, yapılacaklar liste, pomodoro, takvim, önceliklendirme
+Networking ve LinkedIn: linkedin, networking, profesyonel ağ, referans, bağlantı kur
+Şirket Kültürü: şirket kültür, kurumsal kültür, ekip ruh, takım çalışma, iç iletişim
+Danışmanlık: danışmanlık, danışman, strateji danışman, yönetim danışmanlık, mckinsey
+Kamu Personeli ve KPSS: kpss, memur, memurluk, devlet memur, atama, kadro, kamu personel
+Vardiya ve Fazla Mesai: vardiya, fazla mesai, gece vardiya, hafta sonu çalış, izin günü
+Yıllık İzin ve Haklar: yıllık izin, rapor, doğum izin, sgk prim, sigortalı, çalışan hak
+Mühendislik Kariyeri: mühendis, mühendislik kariyer, saha mühendis
+Yazılımcı Kariyeri: yazılımcı, frontend geliştirici, backend geliştirici, junior, senior, teknik mülakat
+Sağlık Meslekleri: hemşire, hemşirelik, sağlık personel, ebe, paramedik, tıp öğrenci
+Kamu ve Güvenlik Meslekleri: polis ol, itfaiyeci, pilot ol, hakim ol, asker ol
+Yaratıcı Meslekler: tasarımcı, fotoğrafçı, yazar ol, içerik üretici, sanat yönetmen
+İş Kurma: iş kur, şirket kur, işletme aç, dükkan aç, franchise, bayilik
+Kurumsal İletişim: kurumsal iletişim, halkla ilişkiler, pr, basın bülten, kriz iletişim
+Kariyer Değişikliği: kariyer değiştir, sektör değiştir, meslek değiştir, yeni kariyer
+
+[Eğitim]
+*: eğitim, okul, öğrenci, öğretmen, ders, sınıf, müfredat, karne, öğren, öğretim, eğitmen, akademik başarı, not ortalama, dönem, sömestr
+Üniversite Sınavı: yks, tyt, ayt, üniversite sınav, ösym, tercih, deneme sınav, sınav hazırlık, dershane, net
+Üniversite: üniversite, üniversiteli, fakülte, kampüs, rektör, vize sınav, final sınav, lisans, akademisyen, hoca
+Lisansüstü Eğitim: yüksek lisans, doktora tez, doktora öğrenci, doktora program, tez, ales, akademik, danışman hoca, master, phd
+Lise Eğitimi: lise, lgs, anadolu lise, fen lise, lise son
+İlkokul ve Ortaokul: ilkokul, ortaokul, ilköğretim, veli, okuma yazma, birinci sınıf
+Okul Öncesi: anaokul, kreş, okul öncesi, yuva
+Yabancı Dil Öğrenme: yabancı dil, ingilizce, almanca, fransızca, ispanyolca, rusça, arapça, japonca, gramer, kelime ezber, ielts, toefl, yds, dil kurs, duolingo
+Online Eğitim: online eğitim, uzaktan eğitim, udemy, coursera, online kurs, eba
+Burslar: burs, bursluluk, kyk, öğrenim kredi, burs başvuru
+Öğretmenlik: öğretmenlik, öğretmen atama, kpss, pedagoji, formasyon, eğitim fakülte
+Ders Çalışma Teknikleri: ders çalışma, not alma, pomodoro, verimli çalışma, ezber, zihin harita
+Yurt Dışında Eğitim: yurtdışı eğitim, erasmus, yurt dışı üniversite, öğrenci vize, work and travel, dil okul
+Mesleki Eğitim: meslek lise, meslek yüksekokul, usta, çırak, mesleki eğitim, kurs
+Özel Eğitim: özel eğitim, rehabilitasyon merkez, disleksi, öğrenme güçlük, kaynaştırma, üstün yetenekli, bilsem
+Ödevler: ödev, proje ödev, performans ödev, ödev yardım
+LGS ve Liseye Geçiş: lgs, liseye geçiş, fen lise, anadolu lise, nitelikli lise
+ALES ve YDS: ales, yds, yökdil, akademik personel sınav
+Erasmus ve Değişim Programları: erasmus, değişim program, farabi, mevlana değişim, erasmus hibe
+Rehberlik ve Meslek Seçimi: rehberlik, rehber öğretmen, meslek seçim, bölüm seçim, tercih rehberlik, bölüm seç, bölüm tercih, yks puan, tyt puan
+Eğitim Teknolojileri: eba, uzaktan eğitim, akıllı tahta, eğitim uygulama, eğitim platform
+Eğitim Sistemi: eğitim sistem, milli eğitim, meb, müfredat değişiklik, eğitim reform, yök
+Öğrenci Yurtları ve Kampüs: öğrenci yurt, kyk, kampüs, yurt başvuru, öğrenci ev, ev arkadaş
+Mezuniyet: mezuniyet, mezun, diploma, cübbe, kep, mezuniyet töreni
+Sertifika Programları: sertifika, sertifika program, kurs, online kurs, udemy, coursera
+Öğrenme Güçlükleri: disleksi, öğrenme güçlük, diskalkuli, özel öğrenme
+Matematik Eğitimi: matematik ders, matematik öğren, problem çöz, matematik korku, işlem hız
+Fen Bilimleri Eğitimi: fen bilgi, fizik ders, kimya ders, biyoloji ders, fen ders
+Sosyal Bilimler Eğitimi: sosyal bilgi, tarih ders, coğrafya ders, inkılap tarih
+Karne ve Notlar: karne, not, sınav not, geçme not, bütünleme, kalmak sınıf, takdir
+Veli ve Okul İlişkileri: veli, veli toplantı, okul aile birlik, okul müdür
+Evde Eğitim ve Özel Ders: özel ders, evde eğitim, etüt, dershane, kurs merkez
+Akademik Yazma: akademik yazım, makale yaz, tez yaz, kaynakça, apa, intihal
+Okul Servisi ve Beslenme: okul servis, okul yemek, kantin, beslenme çanta
+
+[Edebiyat ve Kitaplar]
+*: edebiyat, edebi, yazar, eser, okur, kitap, okuma, okuyor, okudu, roman oku, okur yazar, sayfa, yazarlık, kitap kurdu, edebiyat dünya, eser kimin, kimin eseri, kimin yazdı, kitabı yazdı
+Kitaplar: kitap, kitapçı, kitap kulüp, kitap oku, kitaplık, kitap kurt
+Roman: roman, romancı, kurgu, olay örgü, başkahraman, roman kahraman
+Şiir: şiir, şair, dize, mısra, kafiye, nazım, şiir kitap
+Öykü ve Hikaye: öykü, hikaye, kısa öykü, öykücü, masal
+Türk Edebiyatı: türk edebiyat, divan edebiyat, orhan pamuk, sabahattin ali, yaşar kemal, nazım hikmet, tanpınar, oğuz atay, halide edip, reşat nuri, orhan veli, cemal süreya, sait faik, tutunamayanlar, tehlikeli oyunlar, kürk mantolu madonna, içimizdeki şeytan, kuyucaklı yusuf, saatleri ayarlama enstitüsü, çalıkuşu, sinekli bakkal, ince memed, kiralık konak, aşkı memnu, adım kırmızı, masumiyet müzesi, beyaz kale, puslu kıtalar atlası, dokuzuncu hariciye koğuşu, araba sevdası, bereketli topraklar, çalıkuşu feride, peyami safa, ahmet hamdi tanpınar, yakup kadri, refik halit, orhan kemal, ahmet ümit, elif şafak, zülfü livaneli, attila ilhan, cahit sıtkı, necip fazıl, yahya kemal, ahmet haşim, tevfik fikret, namık kemal, ömer seyfettin, kemal tahir, tarık buğra, adalet ağaoğlu, sevgi soysal, bilge karasu, yusuf atılgan, anayurt oteli, aylak adam
+Dünya Edebiyatı: dünya edebiyat, dostoyevski, tolstoy, kafka, shakespeare, victor hugo, dickens, camus, orwell, rus edebiyat, marquez, suç ceza, karamazov kardeşler, anna karenina, savaş barış, sefiller, dönüşüm, yabancı roman, küçük prens, hayvan çiftliği, don kişot, simyacı, yüzüklerin efendisi kitap, bülbülü öldürmek, çavdar tarlasında çocuklar, uğultulu tepeler, gurur önyargı, ihtiyar adam deniz, saint exupery, goethe, cervantes, dante, ilahi komedya, homeros, ilyada, odysseia, stefan zweig, satranç zweig, paulo coelho, jack london, martin eden, beyaz diş, steinbeck, gazap üzümleri
+Bilim Kurgu: bilim kurgu, distopya, ütopya, asimov, uzaylı, zaman yolculuk, frank herbert, dune
+Fantastik Edebiyat: fantastik, fantastik edebiyat, tolkien, yüzüklerin efendi, harry potter, büyücü, ejderha
+Polisiye: polisiye, dedektif, agatha christie, sherlock holmes, cinayet roman, gerilim roman
+Çocuk ve Gençlik Kitapları: çocuk kitap, gençlik roman, resimli kitap, küçük prens, çocuk edebiyat
+Biyografi ve Anı: biyografi, otobiyografi, hatırat, yaşam öykü, anı kitap
+Yayıncılık: yayınevi, yayıncılık, editör, basım, matbaa, isbn, telif
+Kütüphaneler: kütüphane, kütüphaneci, ödünç kitap, milli kütüphane
+Çizgi Roman: çizgi roman, manga, dc comics, grafik roman, karikatür
+Deneme ve Eleştiri: deneme, denemeci, köşe yazı, eleştiri, edebi eleştiri
+Klasikler: klasik, klasik eser, dünya klasik, kült kitap
+Sesli Kitap ve E-Kitap: ekitap, sesli kitap, kindle, epub, storytel
+Yaratıcı Yazarlık: yaratıcı yazarlık, hikaye yaz, roman yaz, yazarlık atölye, kurgu yaz, karakter yarat, roman yazma, hikaye yazma, kitap yazma, öykü yazma
+Rus Edebiyatı: dostoyevski, tolstoy, çehov, puşkin, gogol, suç ceza, savaş barış, rus edebiyat
+Fransız Edebiyatı: victor hugo, sefiller, camus, sartre, balzac, flaubert, fransız edebiyat
+İngiliz ve Amerikan Edebiyatı: shakespeare, dickens, orwell, hemingway, jane austen, virginia woolf, amerikan edebiyat
+Latin Amerika Edebiyatı: marquez, yüzyıllık yalnızlık, borges, büyülü gerçekçilik, latin amerika edebiyat
+Kişisel Gelişim Kitapları: kişisel gelişim kitap, atomik alışkanlık, motivasyon kitap
+Masallar ve Destanlar: masal, destan, dede korkut, keloğlan, nasreddin hoca, halk hikaye, grimm, dede korkut hikaye, dede korkut kitap, deli dumrul, basat, tepegöz, oğuz destan, manas destan, köroğlu, ergenekon, türeyiş destan
+Divan ve Halk Edebiyatı: divan şiir, gazel, kaside, aşık veysel, karacaoğlan, halk şiir, mani, türkü söz
+Mizah Edebiyatı: mizah, aziz nesin, mizah dergi, fıkra, hiciv
+Distopya: distopya, distopik, cesur yeni dünya, fahrenheit 451, ütopya
+Korku ve Gerilim Edebiyatı: stephen king, lovecraft, poe, korku roman, gerilim roman
+Aşk Romanları: aşk roman, romantik kitap, aşk hikaye
+Edebiyat Ödülleri: nobel edebiyat, edebiyat ödül, booker, orhan kemal ödül
+Kitap Kulüpleri ve Okuma Alışkanlığı: kitap kulüp, okuma alışkanlık, okuma hedef, goodreads, okuma liste
+Tarih ve Felsefe Kitapları: tarih kitap, felsefe kitap, sapiens, düşünce kitap
+Dergiler ve Fanzinler: edebiyat dergi, fanzin, öykü dergi
+Kitap Fuarları ve Kitapçılar: kitap fuar, kitapçı, sahaf, imza günü, kitap mağaza
+
+[Sanat]
+*: sanat, sanatçı, sanatsal, yaratıcı, sanat eser, sanat akım, eser, ressam, sanatsever, tablo, yapıt
+Resim: resim, ressam, tablo, tuval, yağlı boya, suluboya, akrilik, fırça, van gogh, picasso, vinci, mona lisa
+Heykel: heykel, heykeltıraş, mermer heykel, büst, yontu
+Fotoğrafçılık: fotoğraf, fotoğrafçı, fotoğrafçılık, kamera, objektif, pozlama, diyafram, deklanşör, dslr, fotoğraf makine
+Tiyatro: tiyatro, sahne, perde, piyes, oyun yazar, devlet tiyatro, şehir tiyatro, stand up, tiyatro oyun, hamlet, sahne oyun
+Opera ve Bale: opera, bale, balerin, operet, aria, soprano
+Dans: dans, dansçı, salsa, tango, halk dans, zeybek, horon, hip hop dans, bachata
+Seramik ve Çömlek: seramik, çömlek, çini, kil, çömlekçi
+Grafik Tasarım: grafik tasarım, tasarımcı, photoshop, illustrator, figma, afiş, tipografi, logo tasarım, canva, adobe, indesign, coreldraw, afinity, tasarım program, vektör çizim, kurumsal kimlik
+Müzeler: müze, louvre, müze kart, sergi salon, müzecilik
+Sergiler ve Galeriler: sergi, galeri, bienal, çağdaş sanat, sanat fuar, küratör
+Geleneksel Türk Sanatları: hat sanat, hattat, ebru, minyatür, tezhip, çini sanat
+Sokak Sanatı: grafiti, sokak sanat, duvar resim, mural
+Çizim ve İllüstrasyon: çizim, illüstrasyon, eskiz, karakalem, dijital çizim, çizer
+El Sanatları: el sanat, el işi, halı, kilim, dokuma, bakırcılık
+Sanat Tarihi: sanat tarih, rönesans sanat, barok, empresyonizm, izlenimcilik, kübizm, sürrealizm, sanat akım
+Ünlü Ressamlar: van gogh, picasso, vinci, monet, rembrandt, dali, frida kahlo, osman hamdi, mona lisa
+Rönesans Sanatı: rönesans sanat, michelangelo, rafael, botticelli, fresk
+Modern ve Çağdaş Sanat: modern sanat, çağdaş sanat, soyut sanat, kübizm, sürrealizm, pop art, enstalasyon, bienal
+Empresyonizm: empresyonizm, izlenimcilik, empresyonist
+Dijital Sanat: dijital sanat, dijital illüstrasyon, procreate, pixel art, üretken sanat
+Hat ve Tezhip: hat sanat, hattat, tezhip, minyatür
+Ebru ve Çini: ebru, çini, iznik çini
+Karikatür: karikatür, karikatürist, mizah çizer
+Mozaik ve Vitray: mozaik, vitray, zeugma
+Sanat Piyasası: müzayede, sanat piyasa, koleksiyoner, sanat fuar, galerist
+Sanat Eğitimi: güzel sanat, sanat okul, resim kurs, sanat eğitim, güzel sanatlar fakülte
+Performans Sanatı: performans sanat, pandomim, sokak performans
+
+[Müzik]
+*: müzik, şarkı, şarkıcı, albüm, beste, besteci, melodi, nota, klip, spotify, şarkı söz, müzik parça, müzisyen, müzik grup, solist, sahne, şarkı dinle, playlist, çalma liste
+Pop Müzik: pop, pop müzik, tarkan, sezen aksu, pop şarkıcı, taylor swift
+Rock Müzik: rock, rock grup, gitarist, davul, bateri, queen, beatles
+Rap ve Hip Hop: rap, rapçi, hip hop, hiphop, beat, sagopa, freestyle, drill
+Klasik Müzik: klasik müzik, senfoni, orkestra, mozart, beethoven, bach, chopin, konçerto, filarmoni
+Türk Halk Müziği: türkü, halk müzik, bağlama, saz, aşık veysel, neşet ertaş, uzun hava
+Türk Sanat Müziği: sanat müzik, tsm, makam, fasıl, ud, ney, zeki müren
+Caz ve Blues: caz, jazz, blues, saksafon, trompet, doğaçlama
+Elektronik Müzik: elektronik müzik, edm, dj, techno, house müzik, remix
+Arabesk: arabesk, müslüm gürses, ferdi tayfur, orhan gencebay, fantezi müzik
+Konserler ve Festivaller: konser, konser bilet, müzik festival, canlı performans, turne, festival
+Müzik Aletleri: müzik alet, enstrüman, keman, flüt, akordeon, çalgı, akort
+Gitar: gitar, akustik gitar, elektro gitar, akor, pena, gitar ders
+Piyano: piyano, piyanist, synthesizer, piyano ders
+Şan ve Vokal: şan, vokal, ses eğitim, şan ders, ses aralık, falsetto
+Müzik Prodüksiyonu: prodüksiyon, stüdyo, ses kayıt, mix, mastering, ableton, fl studio, daw, mikrofon
+Metal Müzik: metal müzik, heavy metal, metallica, iron maiden, death metal
+K-Pop: kpop, bts, blackpink
+Keman ve Yaylılar: keman, viyola, çello, kontrbas, yaylı çalgı
+Davul ve Perküsyon: davul, bateri, perküsyon, darbuka, zil
+Bağlama ve Türk Çalgıları: bağlama, saz, ud, ney, kanun çalgı, kemençe, zurna, tambur
+Müzik Teorisi: müzik teori, akor, gam, makam, ritim, armoni, solfej, porte
+Koro: koro, korist, polifonik
+Film ve Oyun Müzikleri: film müzik, soundtrack, hans zimmer, oyun müzik
+Alternatif ve Indie: indie, alternatif rock, alternatif müzik, bağımsız müzik
+Anadolu Rock: anadolu rock, barış manço, cem karaca, erkin koray, fikret kızılok
+Latin ve Reggae: latin müzik, reggae, salsa müzik, reggaeton, bob marley
+Müzik Platformları: spotify, apple music, youtube music, deezer, dinleme platform
+Şarkı Yazarlığı: şarkı yaz, söz yaz, beste yap, bestele, şarkı söz yaz
+Konservatuvar ve Müzik Eğitimi: konservatuvar, müzik eğitim, müzik öğretmen, enstrüman öğren
+Türkçe Pop Şarkıcıları: tarkan, sezen aksu, ajda pekkan, sertab erener, hadise, murat boz, mabel matiz
+Yabancı Pop Şarkıcıları: taylor swift, beyonce, ed sheeran, adele, billie eilish, the weeknd, dua lipa
+Türkçe Rap: türkçe rap, ceza rapçi, ezhel, sagopa, şanışer, rapçi
+Müzik Ödülleri: grammy, müzik ödül, eurovision, altın kelebek müzik
+Plak ve Kaset: plak, pikap, kaset, vinil
+
+[Sinema ve Televizyon]
+*: film, sinema, fragman, yönetmen, oyuncu, senaryo, imdb, gişe, sahne, sezon, başrol, kamera, çekim, film izle, dizi izle, sinemaya git
+Filmler: film, film öneri, sinema salon, vizyon film, film eleştiri, oscar, hollywood, yeşilçam
+Diziler: dizi, sezon, dizi öneri, final bölüm, reyting, dizi oyuncu
+Belgeseller: belgesel, national geographic, bbc belgesel, doğa belgesel
+Animasyon: animasyon, çizgi film, pixar, disney, dreamworks, ghibli
+Anime: anime, one piece, naruto, attack on titan, shonen
+Korku Filmleri: korku film, gerilim film, zombi, vampir, hayalet, slasher
+Komedi: komedi, komik, güldür, cem yılmaz, şahan gökbakar, sitcom, mizah
+Aksiyon ve Macera: aksiyon, macera, aksiyon film, james bond
+Dram: dram, drama, duygusal film, dram film
+Oyunculuk: oyunculuk, aktör, aktris, kast, seçme, rol, konservatuvar
+Yönetmenlik: yönetmenlik, nolan, tarantino, spielberg, kubrick, nuri bilge ceylan, film çekim, kamera arka
+Film Festivalleri: film festival, cannes, altın portakal, berlin film, venedik film, altın palmiye
+Dijital Platformlar: netflix, disney plus, amazon prime, blutv, exxen, hbo, gain
+Televizyon Programları: televizyon, tv, talk show, televizyon kanal, program sunucu
+Yarışma Programları: yarışma, survivor, masterchef, milyoner, jüri, yarışmacı
+Süper Kahraman Filmleri: süper kahraman, marvel, avengers, batman, superman, spiderman, örümcek adam
+Bilim Kurgu Filmleri: bilim kurgu film, star wars, yıldız savaş, interstellar, matrix, uzay film
+Türk Sineması: türk sinema, türk film, nuri bilge ceylan, cem yılmaz, kış uykusu, yeşilçam
+Yeşilçam: yeşilçam, türkan şoray, kemal sunal, hababam sınıf, adile naşit, tarık akan
+Hollywood: hollywood, oscar, spielberg, tarantino, scorsese, nolan, dicaprio
+Ödül Törenleri: oscar ödül, altın küre, cannes, berlin film festival, altın portakal, emmy
+Türk Dizileri: türk dizi, dizi fragman, reyting, prime time, ezel, muhteşem yüzyıl
+Yabancı Diziler: game of thrones, breaking bad, friends, stranger things, la casa papel
+Gerilim ve Suç Filmleri: gerilim film, suç film, polisiye film, psikolojik gerilim, mafya film
+Romantik Filmler: romantik film, romantik komedi, aşk film
+Savaş ve Tarih Filmleri: savaş film, tarihi film, dönem dizi, tarihi dizi
+Kısa Film ve Bağımsız Sinema: kısa film, bağımsız sinema, belgesel film yap, festival film
+Senaryo Yazımı: senaryo yaz, senarist, senaryo taslak
+Seslendirme ve Dublaj: dublaj, seslendirme, altyazı, orijinal ses
+Film Eleştirisi: film eleştiri, film yorum, sinema yazar, puanla film
+Sinema Salonları: sinema salon, bilet, imax, vizyon, vizyon film, gişe rekor
+Reality Show: reality show, survivor, masterchef, gelin evi, big brother
+Çocuk Programları: çizgi film, çocuk kanal, trt çocuk, keloğlan çizgi
+Sitcom ve Komedi Dizileri: sitcom, komedi dizi, skeç
+
+[Oyunlar]
+*: oyun, oyna, gamer, oyun oyna, oyuncu hesap, level, seviye, görev, oyun dünya, rekabetçi, oyun oynuyor
+Bilgisayar Oyunları: pc oyun, steam, bilgisayar oyun, epic games
+Konsol Oyunları: konsol, playstation, ps5, ps4, xbox, nintendo, switch, gamepad
+Mobil Oyunlar: mobil oyun, pubg, clash royale, candy crush, brawl stars
+Masa Oyunları: masa oyun, monopoly, catan, tavla, okey, kutu oyun, dama
+Kart Oyunları: kart oyun, pişti, poker, iskambil, batak, blackjack, uno
+Bulmacalar: bulmaca, sudoku, zeka oyun, yapboz, puzzle, kare bulmaca
+Rol Yapma Oyunları: rpg, rol yapma, dungeons, zindan, skyrim, witcher
+Strateji Oyunları: strateji oyun, age of empires, civilization, total war
+FPS ve Aksiyon Oyunları: fps, call of duty, battlefield, nişancı oyun
+Açık Dünya Oyunları: açık dünya, gta, minecraft, red dead, zelda
+Oyun Donanımları: oyun klavye, oyuncu koltuk, oyun kulaklık, oyuncu mouse, oyun bilgisayar
+Minecraft ve Sandbox: minecraft, roblox, sandbox, terraria
+Battle Royale: battle royale, pubg, fortnite, apex, warzone
+MOBA Oyunları: moba, league of legends, lol oyun, dota, mobile legends
+Nintendo: nintendo, switch konsol, mario, zelda, pokemon
+Retro Oyunlar: retro oyun, atari, emülatör, sega, arcade
+Oyun Yayıncılığı: twitch, yayıncı, oyun yayın, kick yayın, stream
+Tavla ve Okey: tavla, okey, batak, pişti, 101 okey
+Simülasyon Oyunları: simülasyon oyun, the sims, uçuş simülasyon, euro truck, farming simulator
+Futbol Oyunları: fifa oyun, ea fc, pes, efootball, football manager
+Yarış Oyunları: yarış oyun, need for speed, forza, gran turismo
+Korku Oyunları: korku oyun, resident evil, silent hill, outlast
+Oyun Platformları: steam, epic games, oyun mağaza, oyun indir, game pass
+Çocuk Oyunları: saklambaç, körebe, yakar top, seksek, ip atla, bahçe oyun
+Kumar ve Şans Oyunları: kumar, casino, rulet, poker, piyango, milli piyango, loto
+Oyun Bağımlılığı: oyun bağımlılık, ekran süre, oyun sınır
+Espor Takımları: espor takım, valorant, cs2, counter strike, espor turnuva
+Oyun Hikayeleri ve Senaryolar: oyun hikaye, the last of us, god of war, witcher, elden ring
+
+[Yemek ve Mutfak]
+*: yemek, mutfak, tarif, pişir, lezzet, lezzetli, aşçı, yemek tarif, pişirme, malzeme, yemek yap, yedim, yemek ye, akşam yemek, öğle yemek, tarif ver, mutfakta, pişirdim, doydum, acıktım
+Türk Mutfağı: türk mutfak, kebap, lahmacun, pide, mantı, dolma, sarma, karnıyarık, iskender, köfte, börek, pilav, kuru fasulye
+Dünya Mutfakları: dünya mutfak, meksika mutfak, fransız mutfak, hint mutfak, taco, köri
+İtalyan Mutfağı: pizza, makarna, spagetti, lazanya, risotto, italyan mutfak, pesto
+Uzak Doğu Mutfağı: suşi, sushi, ramen, noodle, çin mutfak, japon mutfak, kore mutfak, wok, soya sos
+Yemek Tarifleri: tarif, yemek tarif, pratik tarif, kolay tarif, tarif defter, farklı tarif, pratik yemek, akşam yemek fikir, pişir
+Tatlılar: tatlı, baklava, künefe, sütlaç, kazandibi, revani, şerbet, puding, dondurma, kalburabastı, şekerpare, tulumba, lokma tatlı, kemalpaşa, güllaç, aşure, keşkül, tavuk göğsü, trileçe, şerbetli tatlı, sütlü tatlı, profiterol, tiramisu, supangle
+Pastacılık ve Fırıncılık: pasta, kek, kurabiye, ekmek, hamur, maya, cheesecake, brownie, poğaça, simit, pastane
+Et Yemekleri: kırmızı et, kıyma, biftek, antrikot, kuzu, dana, tavuk, mangal, barbekü, kavurma, döner
+Deniz Ürünleri: levrek, çipura, hamsi, karides, midye, kalamar, ahtapot, somon, deniz ürün, balık yemek
+Vejetaryen ve Vegan: vejetaryen, vegan, bitkisel beslenme, tofu, zeytinyağlı
+Kahve: kahve, espresso, latte, cappuccino, türk kahve, filtre kahve, barista, kahve çekirdek, starbucks
+Çay: çay, demlik, semaver, yeşil çay, bitki çay, rize çay, çay bahçe
+Kahvaltı: kahvaltı, menemen, omlet, yumurta, peynir, zeytin, reçel, bal, serpme kahvaltı, sucuklu yumurta, brunch
+Çorbalar: çorba, mercimek çorba, ezogelin, tarhana, işkembe, yayla çorba
+Salatalar ve Mezeler: salata, meze, cacık, haydari, humus, çoban salata, ezme
+Sokak Lezzetleri: sokak lezzet, kokoreç, midye dolma, tantuni, çiğ köfte, kumpir, balık ekmek, dürüm
+Restoranlar: restoran, lokanta, menü, garson, michelin, bahşiş, kafe
+Baharatlar: baharat, pul biber, kimyon, nane, kekik, zerdeçal, tarçın, karabiber, sumak
+Mutfak Aletleri: tencere, tava, düdüklü, airfryer, blender, mikser, mutfak robot, bıçak
+Turşu ve Konserve: turşu, konserve, salça, kışlık, kurutma
+İçecekler: içecek, meyve suyu, limonata, ayran, şalgam, smoothie, kola, soda, boza
+Fast Food: fast food, hamburger, burger, patates kızartma, mcdonalds, burger king
+Kokteyl ve Alkollü İçecekler: kokteyl, şarap, bira, rakı, viski, votka
+Ev Yemekleri: ev yemek, kuru fasulye, nohut, mercimek, türlü, karnıyarık, musakka, dolma, sarma
+Hamur İşleri: hamur iş, börek, poğaça, açma, gözleme, pide, lahmacun, mantı, çörek
+Kebaplar: kebap, adana kebap, urfa kebap, iskender, döner, şiş kebap, çiğ köfte, köfte
+Pilav ve Makarnalar: pilav, bulgur, makarna, erişte, risotto
+Balık Yemekleri: balık, levrek, çipura, hamsi, palamut, somon, balık izgara
+Ekmek ve Unlu Mamuller: ekmek, ekşi maya, simit, fırın, unlu mamul, tam buğday ekmek
+Peynir ve Süt Ürünleri: peynir, süt, yoğurt, ayran, kefir, tereyağ, kaymak, lor
+Çikolata ve Şekerleme: çikolata, bitter çikolata, şekerleme, lokum, helva, kurabiye
+Meyveler: meyve, elma, muz, çilek, karpuz, kavun, üzüm, şeftali, mango, avokado
+Sebze Yemekleri: sebze yemek, ıspanak, pırasa, kabak, enginar, bamya, fasulye, patlıcan, biber dolma, taze fasulye
+Mangal ve Barbekü: mangal, barbekü, ızgara, kömür ateş, sucuk ekmek
+Meksika Mutfağı: meksika mutfak, taco, burrito, nachos, quesadilla, guacamole
+Hint Mutfağı: hint mutfak, köri, tandır, naan, masala, biryani
+Japon Mutfağı: japon mutfak, suşi, sushi, ramen, tempura, miso
+Fransız Mutfağı: fransız mutfak, kruvasan, crepe, fondü, ratatouille
+Orta Doğu Mutfağı: orta doğu mutfak, humus, falafel, şavurma, tabule
+Glutensiz ve Özel Beslenme: glutensiz, laktozsuz, keto, ketojenik, şekersiz, çölyak
+Fermente Gıdalar: fermente, kombucha, kimchi, ekşi maya, boza, şalgam
+Kuruyemiş ve Atıştırmalık: kuruyemiş, çekirdek, fıstık, badem, ceviz, cips, atıştırmalık
+Yağlar: yağ çeşit, sıvı yağ, yemeklik yağ, zeytinyağ, sızma zeytinyağ, tereyağ, ayçiçek yağ, mısırözü yağ, kanola yağ, hindistan cevizi yağ, kızartma yağ, doymuş yağ
+Yemek Siparişi: yemek sipariş, yemeksepeti, getir, paket servis, eve sipariş
+Gıda Güvenliği: gıda güvenlik, son kullanma tarih, gıda zehirlenme, katkı madde, hijyen gıda
+Soslar ve Dip Soslar: sos, mayonez, ketçap, domates sos, beşamel, pesto
+Kahvaltılıklar ve Reçeller: reçel, marmelat, bal, pekmez, tahin, fındık ezme
+Yöresel Yemekler: yöresel yemek, karadeniz mutfak, ege mutfak, antep mutfak, hatay mutfak, kuymak, keşkek
+Şarap ve Bira: şarap, bira, rakı, viski, votka, şarap tadım
+
+[Seyahat ve Turizm]
+*: seyahat, gezi, gez, tatil, turist, turizm, yolculuk, bavul, valiz, rota, tatile, gezdik, gezme, tur, tatil plan, rezervasyon, gezi rehber, gezilecek yer
+Deniz Tatili: deniz tatil, plaj, kumsal, yaz tatil, sahil, bodrum, marmaris, fethiye
+Yurt Dışı Seyahat: yurt dışı, yurtdışı, havalimanı, yurtdışı gezi, döviz bozdur
+Vize ve Pasaport: vize, pasaport, schengen, konsolosluk, vize başvuru, vize red, yeşil pasaport
+Uçak Yolculuğu: uçak bilet, uçuş, havayol, thy, pegasus, rötar, bagaj, check in, aktarma
+Otel ve Konaklama: otel, konaklama, pansiyon, airbnb, hostel, rezervasyon, butik otel, apart
+Kamp ve Karavan: kamp, çadır, karavan, kamp ateş, uyku tulum, glamping, kamp alan
+Kültür Turları: kültür tur, şehir tur, turist rehber, tarihi yer, ören yer
+Kış Tatili ve Termal: kış tatil, kar tatil, termal otel, kaplıca, termal
+Gemi ve Tekne Turları: kruvaziyer, gemi tur, feribot, tekne tur, mavi yolculuk, yat
+Sırt Çantalı Gezi: sırt çanta, backpacking, interrail, otostop, ucuz gezi
+İstanbul: istanbul, boğaz, sultanahmet, ayasofya, galata, kapalıçarşı, beyoğlu, taksim, kadıköy, eminönü
+Kapadokya: kapadokya, balon tur, peri baca, göreme, ürgüp, nevşehir
+Antalya ve Akdeniz: antalya, alanya, kemer, side, kaleiçi, düden, akdeniz tatil, belek, lara
+Karadeniz Turu: karadeniz, yayla, uzungöl, trabzon, sümela, ayder, karadeniz tur
+Ege Turu: ege, izmir, çeşme, efes, alaçatı, ayvalık, bozcaada, kuşadası
+Avrupa Seyahati: avrupa, paris, roma, londra, amsterdam, barcelona, prag, viyana, eyfel
+Asya Seyahati: asya, japonya, tokyo, tayland, bangkok, bali, çin seyahat, kore seyahat, hindistan, dubai
+Amerika Seyahati: amerika, new york, kanada, meksika, brezilya, los angeles, miami
+Ankara: ankara, anıtkabir, kızılay, ankara kale, çankaya
+İzmir: izmir, kordon, alsancak, saat kule, çeşme, alaçatı
+Bursa ve Uludağ: bursa, uludağ, cumalıkızık, iskender kebap bursa
+Doğu Anadolu: van gölü, ağrı dağ, kars, erzurum, ani harabe, doğu ekspres
+Güneydoğu Anadolu: mardin, gaziantep, şanlıurfa, göbeklitepe, nemrut dağ, halfeti, taş ev, dar sokak
+Ege Kıyıları: bodrum, marmaris, fethiye, ölüdeniz, kaş, datça, kuşadası, ayvalık
+Pamukkale ve İç Anadolu: pamukkale, konya, eskişehir, safranbolu, beypazarı
+Paris ve Fransa: paris, eyfel kule, louvre, fransa gezi
+Londra ve İngiltere: londra, bigben, ingiltere gezi, british museum
+İtalya: roma gezi, venedik, floransa, milano, italya gezi, kolezyum
+İspanya ve Portekiz: barselona, madrid gezi, lizbon, porto, ispanya gezi
+Amsterdam ve Benelüks: amsterdam, hollanda gezi, brüksel, belçika gezi
+Orta Avrupa: prag, viyana, budapeşte, berlin gezi, münih
+Balkanlar: balkan tur, saraybosna, üsküp, belgrad, kosova, bosna, karadağ
+Kafkasya: gürcistan, tiflis, batum, azerbaycan, bakü, ermenistan
+Japonya ve Kore: japonya gezi, tokyo, kyoto, kore gezi, seul
+Güneydoğu Asya: tayland, bangkok, bali, vietnam, singapur, malezya, phuket
+Dubai ve Körfez: dubai, abu dhabi, katar, doha, burj khalifa
+New York ve ABD: new york, manhattan, los angeles, las vegas, miami
+Güney Amerika: brezilya, rio, arjantin, peru, machu picchu, şili
+Afrika ve Safari: safari, kenya, tanzanya, fas, marakeş, mısır gezi, piramit gezi
+Maldivler ve Tropik Adalar: maldivler, zanzibar, mauritius, seyşeller, tropik ada
+İskandinavya ve Kuzey Işıkları: norveç, isveç, finlandiya, izlanda, kuzey ışık, aurora
+Rusya: moskova, st petersburg, rusya gezi, kızıl meydan
+Bütçe Seyahati: ucuz tatil, bütçe seyahat, uygun fiyat tatil, ucuz uçak bilet, erken rezervasyon
+Yol Tripi: yol trip, road trip, arabayla gezi, karavan rota
+Tren Yolculuğu: tren yolculuk, doğu ekspres, interrail, yüksek hız tren
+Balayı: balayı, balayı tatil, balayı otel
+Sağlık Turizmi: sağlık turizm, termal otel, kaplıca, spa
+Havalimanları: havalimanı, istanbul havalimanı, sabiha gökçen, check in, pasaport kontrol, duty free, aktarma
+Seyahat Sigortası ve Belgeler: seyahat sigorta, schengen, vize ret, oturum izin
+Ekoturizm ve Köy Turizmi: ekoturizm, köy turizm, yayla tur, agroturizm, doğa tatil
+Tatil Köyleri ve Her Şey Dahil: herşey dahil, tatil köy, resort, aquapark
+
+[Tarih]
+*: tarih, tarihi, tarihçi, dönem, çağ, imparatorluk, antlaşma, hükümdar, kral, tarihte, tarihsel, geçmiş, yüzyıl, medeniyet, uygarlık, savaş, padişah, sultan
+Osmanlı Tarihi: osmanlı, padişah, sultan, fatih, kanuni, yavuz, osman gazi, istanbul fetih, yeniçeri, sadrazam, tanzimat, lale devri
+Selçuklu Tarihi: selçuklu, alparslan, malazgirt, tuğrul bey, anadolu selçuklu, melikşah
+Kurtuluş Savaşı: kurtuluş savaş, milli mücadele, sakarya savaş, büyük taarruz, kuvayi milliye, sevr, lozan
+Cumhuriyet Tarihi: cumhuriyet, atatürk, mustafa kemal, inkılap, harf devrim, cumhuriyet ilan, devrim
+Antik Çağ: antik çağ, ilk çağ, sümer, hitit, mezopotamya, babil, frig, lidya, urartu
+Antik Mısır: mısır, firavun, piramit, mumya, hiyeroglif, kleopatra, tutankamon
+Roma İmparatorluğu: roma imparatorluk, sezar, gladyatör, kolezyum, bizans, konstantin
+Antik Yunan: antik yunan, atina, sparta, truva, homeros, iliada, olimpos
+Orta Çağ: orta çağ, ortaçağ, feodal, şövalye, derebeylik, veba, kara ölüm
+Rönesans ve Reform: rönesans, reform, luther, hümanizm, medici, matbaa icat
+Sanayi Devrimi: sanayi devrim, buhar makine, fabrika, işçi sınıf, endüstri devrim
+Birinci Dünya Savaşı: birinci dünya savaş, 1 dünya savaş, çanakkale, gelibolu, çanakkale savaş
+İkinci Dünya Savaşı: ikinci dünya savaş, 2 dünya savaş, hitler, nazi, holokost, normandiya, churchill, stalin, hiroşima
+Soğuk Savaş: soğuk savaş, berlin duvar, sovyet, sssr, kore savaş, vietnam savaş, küba füze kriz, demir perde
+Arkeoloji: arkeoloji, arkeolog, kazı, göbeklitepe, çatalhöyük, antik kent, höyük, sit alan, zeugma
+Eski Türk Tarihi: göktürk, orhun yazıt, hun, türk tarih, uygur, bilge kağan, orta asya
+İslam Tarihi: islam tarih, dört halife, emevi, abbasi, endülüs, hicret
+Haçlı Seferleri: haçlı sefer, haçlı, kudüs, selahaddin eyyubi, tapınak şövalye
+Moğollar: moğol, cengiz han, timur, altın orda, hülagü
+Fransız Devrimi: fransız devrim, bastille, napolyon, robespierre
+Anadolu Medeniyetleri: hitit, frigya, lidya, urartu, çatalhöyük, truva, anadolu medeniyet
+Mezopotamya: mezopotamya, sümer, babil, asur, akad, hammurabi, çivi yazı
+Bizans İmparatorluğu: bizans, konstantinopolis, justinianus, ayasofya bizans, doğu roma
+Göktürkler ve Hunlar: göktürk, hun, orhun yazıt, bilge kağan, attila, uygur, türk kağanlık
+Keşifler Çağı: coğrafi keşif, kolomb, macellan, vasco gama, yeni dünya
+Sömürgecilik: sömürge, sömürgecilik, emperyalizm, doğu hindistan şirket
+Rus Devrimi ve Sovyetler: rus devrim, bolşevik, lenin, stalin, sovyetler birlik, çarlık
+Holokost ve Nazizm: holokost, nazi, hitler, toplama kamp, faşizm, mussolini
+Atatürk ve İnkılaplar: atatürk, mustafa kemal, inkılap, harf devrim, şapka kanun, cumhuriyet ilan
+Balkan Savaşları: balkan savaş, trablusgarp, ittihat terakki, enver paşa
+Vikingler: viking, vikingler, iskandinav tarih, norman
+Amerika Kıtası Uygarlıkları: maya uygarlık, mayalar, aztek, inka, kızılderili, yerli amerikalı
+Pers İmparatorluğu: pers, persler, ahameniş, sasani, büyük iskender
+Çin Tarihi: çin tarih, çin sedd, han hanedan, ming hanedan, mao
+Amerikan Tarihi: amerikan bağımsızlık, iç savaş amerikan, lincoln, köle ticaret, washington başkan
+Kölelik: kölelik, köle, kölelik kaldır, esir ticaret
+Kore ve Vietnam Savaşları: kore savaş, vietnam savaş
+Osmanlı Padişahları: fatih sultan mehmet, kanuni, yavuz sultan selim, abdülhamit, osman gazi, fetih
+Tarihi Kişilikler: napolyon, sezar, cengiz han, timur, kleopatra, iskender, selahaddin
+Tarih Yazımı ve Kaynaklar: tarih yazım, vakayiname, arşiv belge, tarihçilik, osmanlıca
+Hindistan Tarihi: babür, hindistan tarih, gandhi, bağımsızlık hindistan
+Japonya Tarihi: samuray, şogun, japon tarih, meiji, hiroşima
+Endülüs: endülüs, emevi, kurtuba, gırnata, elhamra
+
+[Coğrafya]
+*: coğrafya, harita, kıta, bölge, yeryüzü, enlem, boylam, coğrafi, iklim, yer şekil, arazi, kıyı, rakım
+Dağlar: dağ, sıradağ, ağrı dağ, erciyes, himalaya, alpler, dağ silsile, tepe, everest, yüksek dağ, yükseklik
+Nehirler ve Göller: nehir, ırmak, göl, dicle, fırat, kızılırmak, nil, van göl, tuz göl
+Denizler ve Okyanuslar: okyanus, deniz, pasifik, atlas okyanus, hint okyanus, körfez
+İklim Tipleri: iklim, akdeniz iklim, karasal iklim, tropikal, muson, kutup iklim, ılıman
+Ülkeler ve Başkentler: ülke, başkent, sınır, komşu ülke, bayrak
+Nüfus ve Demografi: nüfus, demografi, doğum oran, nüfus yoğunluk, nüfus artış
+Çöller: çöl, sahra, kum tepe, vaha, gobi, kurak
+Ormanlar: orman, yağmur orman, amazon orman, tayga, orman alan
+Kutup Bölgeleri: kutup, antarktika, arktik, kuzey kutup, güney kutup, buzul, kutup ayı
+Volkanlar: volkan, yanardağ, lav, volkanik, volkan patlama
+Adalar: adası, adalar, takımada, büyükada, gökçeada, izlanda
+Türkiye Coğrafyası: türkiye coğrafya, marmara bölge, iç anadolu, doğu anadolu, güneydoğu anadolu, karadeniz bölge, ege bölge, akdeniz bölge
+Kartografya: harita çizim, kartografya, gps, koordinat, uydu görüntü, google maps
+Mağaralar: mağara, sarkıt, dikit, karst
+Kanyonlar ve Vadiler: kanyon, vadi, boğaz vadi, büyük kanyon, ıhlara
+Şelaleler: şelale, çağlayan, niagara, düden şelale
+Yaylalar ve Ovalar: yayla, ova, plato, çukurova, konya ova
+Boğazlar: istanbul boğaz, çanakkale boğaz, cebelitarık
+Kıtalar: afrika, asya, avrupa kıta, kuzey amerika, güney amerika, antarktika, okyanusya, avustralya
+Saat Dilimleri: saat dilim, saat fark, greenwich, gmt, yaz saat
+Türkiye Bölgeleri: marmara bölge, ege bölge, akdeniz bölge, karadeniz bölge, iç anadolu, doğu anadolu bölge, güneydoğu anadolu bölge, coğrafi bölge, türkiye bölge, yedi bölge
+Yer Şekilleri: yer şekil, delta, lagün, kıyı ok, falez, peribaca
+Harita Okuma ve Navigasyon: harita oku, pusula, koordinat, gps konum, uydu görüntü
+Nüfus Yoğunluğu ve Şehirler: kalabalık şehir, metropol, megakent, nüfus yoğun
+Sınırlar ve Topraklar: sınır, sınır hat, topraklar, ülke sınır, sınır kapı
+
+[Çevre]
+*: çevre, doğa, çevreci, doğal kaynak, kirlilik, ekolojik, çevre dostu, doğa koru, çevre bilinç, doğal yaşam
+İklim Değişikliği: iklim değişiklik, küresel ısınma, sera gaz, karbon salım, karbon ayak iz, paris anlaşma, buzul erime, emisyon
+Geri Dönüşüm: geri dönüşüm, atık, çöp, ambalaj, kompost, geri dönüştür, atık ayrıştır
+Hava Kirliliği: hava kirlilik, egzoz, partikül, duman, hava kalite, smog
+Su Kirliliği: su kirlilik, atık su, arıtma, deniz kirlilik, müsilaj, deniz salya
+Plastik Atıklar: plastik, mikroplastik, plastik poşet, pet şişe, tek kullanımlık
+Biyoçeşitlilik: biyoçeşitlilik, tür çeşitlilik, endemik, doğal yaşam, koruma alan
+Nesli Tükenen Türler: nesli tüken, nesil tükenme, soyu tüken, tehlike altında tür, iucn
+Sürdürülebilirlik: sürdürülebilir, sürdürülebilirlik, yeşil ekonomi, döngüsel ekonomi, çevre dost, karbon nötr
+Milli Parklar: milli park, tabiat park, doğa koruma, yaban hayat koruma
+Su Kaynakları: su kaynak, su tasarruf, baraj doluluk, yeraltı su, su kıtlık
+Sıfır Atık: sıfır atık, bez çanta, atıksız yaşam
+Toprak ve Erozyon: erozyon, toprak kayıp, çölleşme, tema vakıf
+Karbon Ayak İzi: karbon ayak iz, karbon emisyon, karbon nötr, sera gaz, co2
+Elektronik Atık: elektronik atık, eatık, pil atık, batarya geri dönüşüm
+Ormansızlaşma: ormansızlaşma, ağaç kes, orman kıyım
+Işık ve Gürültü Kirliliği: gürültü kirlilik, ışık kirlilik, gürültü
+Çevre Anlaşmaları: paris anlaşma, kyoto protokol, iklim zirve, cop29, yeşil mutabakat
+Kompost ve Organik Atık: kompost, solucan gübre, organik atık, mutfak atık
+Deniz Kirliliği: deniz salya, müsilaj, petrol sızıntı, deniz kirlilik, okyanus plastik
+Aşırı Avlanma ve Kaçak Avcılık: aşırı avlanma, kaçak avcılık, trol avcılık, av yasak
+Çevre Aktivizmi: çevre aktivist, greta thunberg, greenpeace, iklim grev, çevre eylem
+Maden ve Doğa Tahribatı: maden ocak, altın madeni, siyanür, taş ocak, doğa tahribat
+Yeşil Yaşam ve Minimalizm: yeşil yaşam, sürdürülebilir yaşam, bez çanta, plastik kullanma, sıfır atık yaşam
+Hava Kalitesi: hava kalite, partikül madde, pm2, sis kirlilik, egzoz
+
+[Enerji]
+*: enerji, elektrik, enerji tüketim, enerji kaynak, enerji fiyat, enerji santral, santral, kilovat, megavat, şebeke, enerji arz, elektrik üretim
+Yenilenebilir Enerji: yenilenebilir, yenilenebilir enerji, temiz enerji, yeşil enerji
+Güneş Enerjisi: güneş enerji, güneş panel, fotovoltaik, solar, güneş santral, çatı ges
+Rüzgar Enerjisi: rüzgar enerji, rüzgar türbin, rüzgar santral, rüzgar gül
+Petrol ve Doğalgaz: petrol, doğalgaz, doğal gaz, rafineri, opec, brent, akaryakıt, benzin, motorin, boru hat, lng
+Nükleer Enerji: nükleer enerji, nükleer santral, akkuyu, reaktör, uranyum, çernobil, fukuşima
+Kömür: kömür, termik santral, linyit, maden ocak, madenci
+Hidroelektrik: hidroelektrik, baraj, su türbin, atatürk baraj
+Hidrojen Enerjisi: hidrojen, yakıt hücre, yeşil hidrojen
+Batarya Teknolojisi: batarya, pil, lityum, lityum iyon, enerji depolama, şarj edilebilir
+Elektrik ve Doğalgaz Faturaları: elektrik fatura, doğalgaz fatura, fatura zam, kilovat, kwh, sayaç
+Jeotermal Enerji: jeotermal, jeotermal santral, sıcak su kaynak enerji
+Biyokütle ve Biyoyakıt: biyokütle, biyoyakıt, biyogaz, biyodizel, etanol
+Enerji Verimliliği: enerji verimlilik, enerji tasarruf, led ampul, a sınıf, yalıtım enerji
+Elektrik Kesintileri: elektrik kesinti, elektrik kesildi, planlı kesinti, jeneratör, trafo
+Enerji Politikası: enerji politika, enerji bağımsızlık, enerji güvenlik, enerji ithalat
+Doğalgaz Boru Hatları: boru hat, türkakım, tanap, lng, doğalgaz keşif, karadeniz gaz
+Akaryakıt Fiyatları: benzin fiyat, motorin fiyat, akaryakıt zam, mazot
+Füzyon: füzyon, nükleer füzyon, iter, tokamak
+Ev Tipi Enerji: çatı güneş panel, ev güneş enerji, inverter, akü
+
+[Doğal Afetler]
+*: afet, doğal afet, afad, felaket, arama kurtarma, tahliye, afetzede, felaketzede, yardım kampanya, çadır kent, afet bölge, can kayıp
+Orman Yangınları: orman yangın, ağaçlandırma, fidan, yangın söndür, yanan orman
+Depremler: deprem, sarsıntı, artçı, richter, fay, fay hat, kandilli, enkaz, 6 şubat, deprem bölge, deprem büyüklük
+Sel ve Taşkın: sel, taşkın, sağanak, su baskın, dere taşma
+Heyelan: heyelan, toprak kayma, kaya düşme
+Tsunami: tsunami, dev dalga
+Kasırga ve Hortum: kasırga, hortum, tayfun, tropikal fırtına, siklon
+Çığ: çığ, çığ düşme, kar fırtına
+Kuraklık: kuraklık, su kesinti, kurak dönem
+Afete Hazırlık: afet hazırlık, deprem tatbikat, toplanma alan, deprem çanta, afet plan
+Volkanik Patlamalar: yanardağ patlama, volkan patlama, lav, kül bulut, etna, vezüv
+Dolu ve Fırtına Afetleri: dolu, dolu yağış, fırtına hasar, şiddetli fırtına
+Afet Sonrası Yardım: afet yardım, yardım kolisi, konteyner kent, ahbap, akut, afet gönüllü
+Deprem Güvenliği: deprem çanta, deprem sigorta, dask, deprem tatbikat, çök kapan tutun
+Salgın Afetler: salgın felaket, veba, kolera, epidemi
+Aşırı Sıcak ve Isı Dalgası: ısı dalga, sıcak çarpma, rekor sıcak, kavurucu sıcak
+Göktaşı ve Uzay Kaynaklı Tehditler: göktaşı, meteor çarpma, asteroit çarpma, tunguska
+
+[Hayvanlar]
+*: hayvan, hayvansever, evcil hayvan, yaban hayat, hayvan dost, patili, can dost, hayvan bakım, hayvan sahip
+Kediler: kedi, yavru kedi, miyav, tekir, van kedi, kedi mama, kedi kum, british shorthair, scottish fold
+Köpekler: köpek, yavru köpek, köpek mama, golden retriever, labrador, kangal, havla, tasma, köpek eğitim
+Kuşlar: kuş, muhabbet kuş, papağan, kanarya, serçe, kartal, güvercin, baykuş
+Akvaryum Balıkları: akvaryum, japon balık, lepistes, beta balık, akvaryum balık
+Evcil Hayvan Bakımı: mama, tüy dökme, pire, kısırlaştırma, kum kabı, evcil hayvan bakım, tüy döküyor, tüy döküm
+Vahşi Yaşam: aslan, kaplan, fil, zürafa, zebra, kurt, boz ayı, safari, yırtıcı, vahşi hayvan
+Deniz Canlıları: yunus, balina, köpekbalık, deniz kaplumbağa, caretta, mercan, fok
+Böcekler: böcek, arı, karınca, kelebek, sivrisinek, hamamböcek, örümcek, çekirge
+Sürüngenler: yılan, kertenkele, timsah, kaplumbağa, iguana, sürüngen
+Atlar: aygır, kısrak, midilli, tay, ahır, at bakım
+Arıcılık: arıcı, arıcılık, kovan, ana arı, propolis, bal arı
+Hayvan Hakları: hayvan hak, hayvan istismar, hayvan şiddet, hayvan hak savunucu
+Sokak Hayvanları: sokak hayvan, sokak köpek, sokak kedi, barınak, sahiplen, mama kap
+Veteriner: veteriner, veteriner klinik, hayvan hastane, veteriner hekim
+Kemirgenler: hamster, tavşan, sincap, kemirgen, ginepig
+Primatlar: maymun, şempanze, goril, orangutan, primat
+Çiftlik Hayvanları: inek, koyun, keçi, horoz, ördek, manda, tavuk kümes
+Köpekbalıkları ve Balinalar: köpekbalığı, balina, yunus, orka, mavi balina
+Kelebekler ve Karıncalar: kelebek, karınca, uğur böcek, ateş böcek, tırtıl
+Örümcekler ve Akrepler: örümcek, akrep, tarantula, kara dul
+Büyük Kediler: aslan, kaplan, leopar, çita, jaguar, vaşak
+Kurtlar ve Tilkiler: kurt, tilki, çakal, sırtlan
+Ayılar: boz ayı, kutup ayı, panda, koala
+Filler ve Büyük Memeliler: fil, zürafa, gergedan, su aygır, deve, zebra
+Penguenler ve Kutup Hayvanları: penguen, fok, mors, kutup tilki
+Papağanlar ve Muhabbet Kuşları: papağan, muhabbet kuş, kanarya, sultan papağan, jako
+Yırtıcı Kuşlar: kartal, şahin, baykuş, atmaca, akbaba, doğan kuş
+Tavşanlar: tavşan, ada tavşan, tavşan bakım
+Kaplumbağalar: kaplumbağa, caretta, su kaplumbağa
+Yılanlar: yılan, engerek, piton, kobra, zehirli yılan
+Hayvan Eğitimi: köpek eğitim, tuvalet eğitim köpek, tasma, itaat eğitim, kedi eğitim
+Hayvan Sahiplenme: sahiplen, sahiplendirme, barınak, mama bağış, kısırlaştırma
+Hayvanat Bahçeleri ve Akvaryumlar: hayvanat bahçe, akvaryum gezi, safari park, doğal yaşam park
+Egzotik Hayvanlar: egzotik hayvan, iguana, bukalemun, kirpi, gelincik hayvan
+Kümes Hayvanları: tavuk, horoz, kaz, ördek, hindi, kümes, civciv
+Hayvan Davranışları: hayvan davranış, kedi davranış, köpek davranış, hırlama, kuyruk sallama
+Deniz Kabukluları: yengeç, ıstakoz, karides, midye, ahtapot, denizanası
+
+[Tarım ve Bahçe]
+*: tarım, tarımsal, çiftçi, çiftlik, hasat, ekim, dikim, toprak, tarla, ekin, rekolte, zirai, ziraat, köylü, bahçıvanlık
+Bahçecilik: bahçe, bahçıvan, çim, budama, çapa, bahçe bakım
+Sebze Yetiştiriciliği: domates, biber, salatalık, patlıcan, fide, sebze yetiştir, marul, sebze bahçe
+Meyve Ağaçları: meyve ağaç, elma ağaç, fındık, zeytin ağaç, üzüm bağ, narenciye, portakal, kiraz
+Saksı ve Ev Bitkileri: saksı, ev bitki, sukulent, kaktüs, orkide, monstera, çiçek bakım
+Organik Tarım: organik tarım, organik, pestisit, ilaçsız, doğal tarım, permakültür, köy yumurta
+Hayvancılık: hayvancılık, besi, büyükbaş, küçükbaş, süt inek, yem, mera
+Tarım Makineleri: traktör, biçerdöver, pulluk, römork, tarım makine
+Sulama Sistemleri: sulama, damla sulama, yağmurlama, sulama sistem, kuyu
+Tohumculuk: tohum, ata tohum, hibrit tohum, çimlendirme, tohum ek
+Gübreleme: gübre, azot, fosfor, toprak analiz, gübreleme
+Seracılık: sera, seracılık, topraksız tarım, hidroponik, dikey tarım
+Balıkçılık: balıkçı, balıkçılık, olta, balık tut, trol, kültür balık, balık çiftlik
+Mantar Yetiştiriciliği: mantar, kültür mantar, istiridye mantar, mantar topla
+Tarım Destekleri: tarım destek, tarım kredi, ziraat, hal fiyat, tmo, çiftçi destek
+Tahıl ve Tarla Bitkileri: buğday, arpa, çavdar, yulaf tarla, tahıl, ekin, pamuk, ayçiçek, şeker pancar, mısır tarla, çeltik
+Bağcılık: bağcılık, üzüm bağ, asma, bağ bozum, şaraplık üzüm
+Zeytincilik: zeytincilik, zeytin hasat, zeytinyağ üretim, zeytinlik
+Fındık ve Çay Tarımı: fındık hasat, fındık fiyat, çay tarım, çay topla, yaş çay
+Bitki Hastalıkları ve Zararlılar: bitki hastalık, zararlı böcek, yaprak biti, mantar hastalık bitki, ilaçlama
+Kent Bahçeciliği: balkon bahçe, hobi bahçe, kent bahçe, teras bahçe, dikey bahçe
+Çim ve Peyzaj Bakımı: çim biç, çim bakım, rulo çim, çim tohum
+Tarım Teknolojisi: akıllı tarım, tarım drone, hassas tarım, tarım sensör
+Kooperatifler: tarım kooperatif, kooperatif, üretici birlik
+Ağaç Dikimi ve Fidanlar: fidan dik, ağaç dik, fidanlık, aşılama ağaç, ağaç
+Sebze ve Meyve Hasadı: hasat zaman, toplama mevsim, mevsim meyve, mevsim sebze
+Tarım Arazisi ve Toprak: tarım arazi, verimli toprak, toprak işle, nadas, münavebe
+Kümes ve Yumurta Üretimi: yumurta üretim, tavuk çiftlik, köy tavuk, gezen tavuk
+Süt Üretimi: süt üretim, süt fiyat, mandıra, süt inek
+
+[Siyaset]
+*: siyaset, siyasi, siyasetçi, politika, politik, hükümet, iktidar, muhalefet, devlet, bakan, bakanlık, seçmen, parti, lider, cumhurbaşkan, başbakan, milletvekil, oy, siyasal
+Seçimler: seçim, oy, sandık, seçmen, aday, seçim kampanya, ysk, yerel seçim, genel seçim, cumhurbaşkanlığı seçim
+Siyasi Partiler: parti, akp, ak parti, chp, mhp, iyi parti, dem parti, genel başkan, parti program, koalisyon
+Meclis ve Yasama: meclis, tbmm, milletvekil, kanun teklif, yasa, yasama, önerge, genel kurul
+Anayasa: anayasa, anayasa mahkeme, anayasa değişiklik, referandum
+Demokrasi ve Yönetim Biçimleri: demokrasi, diktatör, otoriter, monarşi, özgürlük, seçme seçilme
+Dış Politika: dış politika, dışişleri, büyükelçi, ikili ilişki, yaptırım
+Uluslararası İlişkiler: uluslararası ilişki, jeopolitik, küresel güç, abd, rusya, çin, ukrayna, israil, filistin, gazze, orta doğu, suriye, iran
+Birleşmiş Milletler: birleşmiş milletler, bm, güvenlik konsey, unicef, unesco, dünya sağlık örgüt
+NATO ve İttifaklar: nato, ittifak, askeri ittifak
+Avrupa Birliği: avrupa birlik, ab üyelik, brüksel, avrupa parlamento, gümrük birlik, avrupa birlik üyelik
+Yerel Yönetimler: belediye, belediye başkan, muhtar, belediye meclis, kent konsey
+İnsan Hakları: insan hak, ifade özgürlük, basın özgürlük, ayrımcılık, eşitlik, hak ihlal
+Göç ve Mülteciler: göç, göçmen, mülteci, sığınmacı, düzensiz göç, sınır dışı
+Terörle Mücadele: terör, terörist, terör örgüt, terör saldırı, güvenlik önlem
+Diplomasi: diplomasi, diplomat, büyükelçilik, müzakere, barış görüşme
+ABD Siyaseti: abd seçim, beyaz saray, demokrat parti, cumhuriyetçi parti, trump, biden, kamala, kongre
+Avrupa Siyaseti: almanya siyaset, fransa seçim, macron, avrupa parlamento, aşırı sağ avrupa
+Orta Doğu: orta doğu, suriye, irak, iran, suudi arabistan, lübnan, körfez ülke
+Rusya Ukrayna Savaşı: rusya ukrayna, ukrayna savaş, putin, zelenski, kiev, donbas
+İsrail Filistin Meselesi: israil, filistin, gazze, batı şeria, hamas, kudüs
+Çin ve Asya Siyaseti: çin siyaset, tayvan, kuzey kore, şi cinping, güney çin deniz
+Kamuoyu Araştırmaları: anket sonuç, kamuoyu yoklama, seçim anket, oy oran
+Protestolar ve Eylemler: protesto, eylem, miting, gösteri yürüyüş, grev
+Siyasi İdeolojiler: liberalizm, sosyalizm, komünizm, muhafazakarlık, milliyetçilik, sosyal demokrasi, kapitalizm
+Yolsuzluk ve Şeffaflık: yolsuzluk, rüşvet, şeffaflık, hesap verebilirlik, usulsüzlük
+Sosyal Politikalar: sosyal yardım, sosyal devlet, emekli maaş, engelli maaş, sosyal güvenlik
+Seçim Kampanyaları: seçim kampanya, seçim vaat, seçim bildirge, aday, adaylık
+Basın Özgürlüğü: basın özgürlük, ifade özgürlük, sansür, gazeteci tutuklama
+Kadın ve Siyaset: kadın milletvekil, kadın kota, siyasette kadın
+Türkiye Dış İlişkileri: türkiye abd, türkiye ab, türkiye rusya, türkiye yunanistan, kıbrıs meselesi
+Afrika ve Latin Amerika Siyaseti: afrika siyaset, darbe afrika, venezuela, brezilya siyaset
+
+[Hukuk]
+*: hukuk, hukuki, mahkeme, dava, avukat, hakim, savcı, yargı, dilekçe, kanun, hukukçu, yasa, mevzuat, kanun madde, yönetmelik, mahkeme karar, hak, dava aç, hukuki süreç
+Ceza Hukuku: ceza hukuk, ceza dava, hapis, tutuklama, gözaltı, sanık, tck, beraat, ceza indirim, infaz, denetimli serbestlik
+Medeni Hukuk: medeni hukuk, medeni kanun, tmk, vasi, kişilik hak
+İş Hukuku: iş hukuk, kıdem tazminat, ihbar tazminat, işe iade, iş sözleşme, fazla mesai, iş kanun, arabulucu
+Aile Hukuku ve Boşanma: boşanma, nafaka, velayet, anlaşmalı boşanma, çekişmeli boşanma, mal paylaşım, aile mahkeme
+Miras Hukuku: miras, mirasçı, vasiyet, veraset, tereke, saklı pay
+Tüketici Hakları: tüketici, tüketici hak, ürün iade, ayıplı mal, garanti, tüketici hakem heyet, cayma hak
+Kira Hukuku: kira, kiracı, ev sahib, kira artış, kira sözleşme, tahliye, depozito, kira tespit
+Trafik Cezaları: trafik ceza, hız ceza, radar, ceza puan, çekici
+Yargılama ve Mahkemeler: duruşma, yargıtay, danıştay, istinaf, temyiz, bilirkişi, hüküm
+Avukatlık: baro, vekalet, vekaletname, hukuk büro, stajyer avukat, hukuk fakülte
+Fikri Mülkiyet: telif hak, patent, marka tescil, fikri mülkiyet, intihal
+Vergi Hukuku: vergi ceza, vergi dava, vergi uyuşmazlık, vergi af
+Ticaret Hukuku: ticaret hukuk, şirket kuruluş, anonim şirket, limited şirket, çek, senet, iflas, konkordato
+Bilişim Hukuku: bilişim hukuk, kvkk, kişisel veri, gdpr, siber suç, bilişim suç
+İcra ve İflas: icra, haciz, icra takip, icra daire
+Uluslararası Hukuk: uluslararası hukuk, lahey, uluslararası mahkeme, uluslararası ceza mahkeme, aihm
+İdare Hukuku: idare hukuk, idare mahkeme, danıştay, idari işlem, iptal dava
+Sağlık Hukuku: malpraktis, tıbbi hata, hasta hak, doktor hata, tıbbi ihmal
+Gayrimenkul ve Tapu: tapu, tapu dava, imar, gayrimenkul hukuk, kat mülkiyet, hisseli tapu
+Noterlik: noter, vekaletname, noter onay, noter satış, ihtarname
+Arabuluculuk: arabulucu, arabuluculuk, uzlaşma, sulh
+Hakimlik ve Savcılık: hakimlik, savcılık, hsk, adli yargı, yargıç
+Tazminat Davaları: tazminat, maddi tazminat, manevi tazminat, zarar tazmin
+Sözleşmeler: sözleşme, sözleşme fesih, cezai şart, imza, taahhüt
+Göç ve Vatandaşlık Hukuku: vatandaşlık, çifte vatandaşlık, ikamet izin, çalışma izin, sınır dışı
+Çocuk Hakları: çocuk hak, velayet, nafaka, çocuk koruma, çocuk istismar
+Hukuk Eğitimi: hukuk fakülte, hukuk öğrenci, baro, staj avukat, hmgs
+Anayasa Mahkemesi: anayasa mahkeme, bireysel başvuru, hak ihlal, yargıtay
+Sigorta Hukuku: sigorta dava, hasar dava, kasko dava, sigorta tazminat
+
+[Otomotiv ve Ulaşım]
+*: araba, araç, otomobil, sürücü, sürüş, otomotiv, taşıt, yolculuk, ulaşım, sürücü belge, vites, fren, direksiyon, motor
+Otomobil Markaları ve Modeller: sedan, hatchback, suv, bmw, mercedes, audi, toyota, renault, fiat, volkswagen, ford, hyundai, beygir
+Elektrikli Araçlar: elektrikli araç, elektrikli otomobil, tesla, togg, şarj istasyon, menzil, hibrit araç
+Motosikletler: motosiklet, motorcu, kask, scooter, yamaha, chopper
+Araç Bakımı: araç bakım, yağ değişim, fren, akü, motor yağ, tamirci, arıza, triger, araç muayene
+Ehliyet ve Sürücü Kursu: ehliyet, sürücü kurs, direksiyon sınav, sürücü belge
+Toplu Taşıma: toplu taşıma, otobüs, metro, metrobüs, tramvay, dolmuşa bin, dolmuşla, dolmuş şoför, minibüs, istanbulkart, durak, vapur
+Demiryolları: tren, demiryol, yüksek hızlı tren, yht, tcdd, marmaray, vagon, raylı sistem
+Havacılık: havacılık, uçak, pilot, boeing, airbus, kokpit, hostes, kabin memur
+Denizcilik: denizcilik, gemi, liman, kaptan, tanker, konteyner gemi, tersane
+Trafik: trafik, trafik kaza, trafik sıkışıklık, kavşak, trafik ışık, kaza, emniyet kemer, yaya
+Akaryakıt ve Yakıt: lpg, yakıt tüketim, pompa fiyat, benzin zam, yakıt
+İkinci El Araç: ikinci el, sahibinden, araç ekspertiz, ekspertiz, galerici, araç alım satım, kilometre
+Lastik ve Jant: lastik, kış lastik, jant, lastik değişim, rot balans
+Araç Muayenesi: araç muayene, tüvtürk, egzoz emisyon, muayene randevu
+Kasko ve Trafik Sigortası: kasko, trafik sigorta, zorunlu sigorta, hasar kayıt, sigorta poliçe
+Araç Alım Satımı: araba al, araba sat, sıfır araç, galeri, noter araç, ekspertiz
+Modifiye: modifiye, egzoz modifiye, jant modifiye, tuning, çakar
+Klasik Arabalar: klasik araba, klasik otomobil, murat 131, anadol, kartal araba
+Ticari Araçlar ve Kamyonlar: kamyon, tır, minibüs, kamyonet, panelvan, ağır vasıta
+Taksi ve Araç Paylaşımı: taksi, uber, bitaksi, araç paylaşım, taksimetre
+Scooter ve Mikro Mobilite: scooter, elektrikli scooter, martı scooter, hoverboard
+Otopark: otopark, park yer, park et, otopark ücret, vale
+Otoyollar ve Köprüler: otoyol, köprü geçiş, ogs, hgs, otoban, çevre yol
+Navigasyon: navigasyon, yandex navi, google harita, rota oluştur, yol tarif
+Araç Kiralama: araç kirala, rent a car, kiralık araba
+Yerli Otomobil ve Otomotiv Sektörü: togg, yerli otomobil, otomotiv sektör, otomotiv fabrika, tofaş, ford otosan
+Sürüş Teknikleri: sürüş teknik, park etme, yokuş kalkış, gece sürüş, kış sürüş, zincir tak
+Havayolu Şirketleri: türk hava yol, thy, pegasus, anadolujet, havayolu şirket, uçuş iptal, rötar
+Araç Arızaları: akü bitti, lastik patladı, motor ısınma, arıza lamba, çekici çağır, yol yardım
+Yakıt Tüketimi: yakıt tüketim, yakıt tasarruf, lpg, dizel, benzinli araç, hibrit araç, benzinli, dizel araç
+
+[Ev ve Yaşam]
+*: ev, evim, yaşam alan, ev hayat, evde, ev işi, ev iş, evimiz, oda, salon, mutfak düzen
+Ev Dekorasyonu: dekorasyon, dekor, perde, duvar kağıt, renk uyum, iskandinav, minimalist dekor, ev aksesuar
+Mobilya: mobilya, koltuk, kanepe, masa, sandalye, gardırop, yatak, ikea, dolap
+Temizlik: temizlik, deterjan, çamaşır suyu, toz al, süpürge, leke, hijyen, dezenfektan, mop
+Tadilat ve Tamirat: tadilat, tamirat, fayans, sıva, boya badana, tesisat, musluk, elektrikçi, tesisatçı
+Beyaz Eşya ve Ev Aletleri: buzdolabı, çamaşır makine, bulaşık makine, klima, kombi, elektrikli süpürge, robot süpürge, ütü, beyaz eşya
+Düzen ve Organizasyon: düzen, organize, dolap düzen, minimalizm, eşya azalt, marie kondo
+Çamaşır ve Ütü: çamaşır, yumuşatıcı, kurutma makine, leke çıkar
+Isınma ve Yalıtım: ısınma, yalıtım, mantolama, soba, kalorifer, petek
+Akıllı Ev: akıllı ev, alexa, google home, akıllı ampul, akıllı priz, ev otomasyon
+Taşınma: taşınma, nakliyat, ev taşı, evden eve, yeni ev, koli
+Aydınlatma: aydınlatma, avize, lamba, led, ampul, abajur
+Ev Güvenliği: alarm, güvenlik kamera, kilit, çelik kapı, ev güvenlik
+Banyo: banyo, duş, klozet, lavabo, küvet, fayans
+Yatak Odası ve Uyku Düzeni: yatak odası, yatak, yorgan, nevresim, yastık, gardırop
+Çocuk Odası: çocuk oda, bebek odası, beşik, oyuncak düzen
+Ev Bulma ve Kiralama: ev bul, kiralık ev, satılık ev, sahibinden, emlakçı, ev tut
+Ev Bütçesi ve Faturalar: fatura, su fatura, internet fatura, aidat, ev bütçe, ev masraf
+Haşere ve Böcekler: hamamböcek, fare, haşere, ilaçlama ev, sivrisinek, pire, tahtakurusu
+Tesisat ve Su Kaçağı: tesisat, su kaçak, musluk, boru patlak, tesisatçı, tıkanık gider
+Elektrik Tesisatı: elektrik tesisat, sigorta attı, priz, kablo, elektrikçi, şalter
+Boya ve Badana: boya, badana, duvar boya, boya renk, duvar kağıt
+Ev Tekstili: perde, halı, kilim, kırlent, masa örtü, ev tekstil
+Minimalizm: minimalizm, minimalist, sade yaşam, eşya azalt, konmari
+Site Yönetimi: site yönetim, apartman yönetim, apartman toplantı, kapıcı, yönetici aidat
+Kombi ve Doğalgaz: kombi, petek, kombi bakım, doğalgaz sayaç, kombi arıza
+Balkon ve Teras: balkon, teras, balkon düzen, balkon mobilya
+Mutfak Düzeni: mutfak dolap, tezgah, kiler, mutfak düzen, baharatlık
+Ev Hijyeni ve Kokular: koku giderici, oda kokusu, hijyen ev, küf, nem ev
+Ev Bitkisi Bakımı: saksı çiçek, ev bitki bakım, sukulent bakım
+Bekar Evi ve Tek Yaşam: tek başına yaşa, bekar ev, yalnız yaşa, ev arkadaş
+
+[Aile ve İlişkiler]
+*: aile, ilişki, anne, baba, eş, çocuk, kardeş, akraba, sevgi, ailem, annem, babam, eşim, kocam, karım, sevgilim, oğlum, kızım, çocuklarım, ilişki sorun
+Evlilik: evlilik, evlen, karı koca, evlilik yıldönüm, evlilik teklif, nişan, nikah
+Düğün: düğün, gelinlik, damat, gelin, kına gece, düğün salon, balayı, davetiye, nikah şeker
+Flört ve Sevgililik: sevgili, flört, aşk, randevu, ilk buluşma, hoşlan, sevgililer gün, aşık
+Ayrılık: ayrılık, ayrıl, eski sevgili, kalp kırıklık, terk, ex
+Arkadaşlık: arkadaş, arkadaşlık, dost, dostluk, kanka, yakın arkadaş, arkadaş grup
+Ebeveynlik: ebeveyn, anne baba, ebeveynlik, çocuk yetiştir, sınır koy, ekran süre
+Bebek Bakımı: bebek, yenidoğan, bebek bez, emzirme, anne süt, bebek araba, diş çıkarma, gaz sancı, uyku eğitim
+Ergenlik: ergen, ergenlik, isyankar, akran baskı, buluğ
+Kardeş İlişkileri: kardeş kıskançlık, abla, ağabey, abi, kız kardeş, erkek kardeş, ikiz
+Yaşlı Bakımı: yaşlı bakım, huzurevi, bakıcı, dede, nine, babaanne, anneanne
+Aile İçi İletişim: aile içi iletişim, tartışma, kavga, anlaşmazlık, küslük
+Komşuluk: komşu, komşuluk, apartman, site yönetim, aidat, gürültü
+Evlilik Teklifi ve Nişan: evlilik teklif, nişan, söz kes, kız isteme, yüzük
+Yıldönümü ve Hediyeler: yıldönüm, hediye, sürpriz, sevgililer gün hediye, doğum gün hediye
+Kayınvalide ve Gelin: kayınvalide, gelin, damat, kaynana, kayınpeder, görümce, elti
+Büyükanne ve Büyükbaba: babaanne, anneanne, dede, torun, büyükanne
+Akrabalık İlişkileri: amca, dayı, hala, teyze, kuzen, yeğen, akraba ziyaret
+Çocuk Disiplini: çocuk disiplin, çocuk inat, sınır koy, ceza ödül, çocuk söz dinle
+Tuvalet Eğitimi ve Bebek Gelişimi: tuvalet eğitim, bez bırak, emekle, diş çıkar, ilk adım, bebek gelişim
+Emzirme ve Bebek Beslenmesi: emzir, anne süt, mama, ek gıda, biberon
+Evlat Edinme ve Koruyucu Aile: evlat edin, koruyucu aile, evlatlık
+Tek Ebeveynlik: tek ebeveyn, bekar anne, bekar baba, boşanmış anne
+Aldatma: aldatma, aldat, ihanet, sadakat, güven sorun
+Uzak Mesafe İlişki: uzak mesafe ilişki, uzak ilişki, görüntülü arama
+Aile Bütçesi: aile bütçe, ev ekonomi, çocuk masraf, okul masraf
+Kıskançlık ve İlişki Sorunları: ilişki tartışma, sevgili kıskanç, kavga et, küs, barıştık
+Anneler ve Babalar Günü: anneler gün, babalar gün
+Çocukla Vakit Geçirme: çocukla oyun, park gezme, çocuk etkinlik, aile vakit
+Ekran Süresi ve Çocuklar: çocuk telefon, çocuk tablet, çocuk ekran, çocuk youtube
+Aile Birleşimi ve Bayram Ziyaretleri: bayram ziyaret, aile toplan, akraba toplan, el öp
+
+[Moda ve Güzellik]
+*: moda, stil, güzellik, kıyafet, giyim tarz, trend, giyin, giydim, kombin, şık, görünüm, stil sahibi, marka, giysem, giyeyim, giyilir, giyeceğim
+Giyim: giyim, elbise, pantolon, gömlek, tişört, ceket, mont, kazak, etek, kot pantolon, kombin
+Ayakkabı: ayakkabı, spor ayakkabı, topuklu, sneaker, terlik, çizme, nike, adidas
+Aksesuar ve Çanta: çanta, şapka, atkı, eldiven, güneş gözlük, cüzdan, kemer
+Takı ve Mücevher: takı, mücevher, yüzük, kolye, küpe, bilezik, pırlanta, kuyumcu
+Makyaj: makyaj, ruj, fondöten, maskara, eyeliner, kapatıcı, allık, pudra
+Cilt Bakımı: cilt bakım, nemlendirici, serum, güneş krem, tonik, yüz maske, gözenek, kırışıklık, cilt tip, retinol, krem, yüz krem, nemlendirici krem
+Saç Bakımı: saç, saç bakım, şampuan, saç boya, kuaför, berber, saç kesim, röfle, keratin, saç dökülme
+Parfüm: parfüm, koku, esans, deodorant
+Moda Trendleri: moda trend, sezon trend, defile, moda hafta, haute couture, vogue
+Erkek Modası: erkek moda, takım elbise, kravat, sakal, bıyık, erkek bakım, tıraş
+Tesettür Modası: tesettür, başörtü, eşarp, şal, tesettür giyim, ferace
+Tırnak Bakımı: tırnak, oje, manikür, pedikür, protez tırnak, kalıcı oje
+Gözlük: gözlük, güneş gözlük, çerçeve, lens gözlük, numaralı gözlük
+Saatler: kol saat, akıllı saat moda, rolex, saat marka
+Dövme ve Piercing: dövme, tattoo, piercing, hızma, kulak delme
+Sürdürülebilir Moda: sürdürülebilir moda, hızlı moda, ikinci el kıyafet, vintage, geri dönüşüm moda
+Moda Tasarımı: moda tasarım, modacı, moda tasarımcı, koleksiyon, defile, podyum
+Moda Markaları: zara, lcwaikiki, koton, defacto, gucci, prada, louis vuitton, chanel
+Spor Giyim: spor giyim, eşofman, tayt, spor ayakkabı, nike, adidas, puma
+Kış ve Yaz Giyimi: mont, kaban, kazak, atkı, bere, şort, tişört, elbise yazlık, mayo, bikini, plaj kıyafet
+Gelinlik ve Abiye: gelinlik, abiye, damatlık, nişanlık, kına kıyafet
+Takım Elbise ve Resmi Giyim: takım elbise, kravat, gömlek, blazer, ofis giyim
+Tıraş ve Sakal Bakımı: tıraş, sakal, bıyık, jilet, berber, sakal bakım
+Epilasyon ve Ağda: epilasyon, ağda, lazer epilasyon
+Kozmetik Ürünler: kozmetik, fondöten, ruj, maskara, allık, kapatıcı, sephora
+Saç Modelleri ve Boyama: saç model, saç kesim, saç boya, röfle, balyaj, perma, kuaför
+Kilo ve Vücut Tipi: vücut tip, beden, beden ölçü, kalıp, tam oturan
+Güzellik Salonları: güzellik salon, cilt bakım salon, masaj, kaş alma, kirpik
+
+[Din ve İnanç]
+*: din, dini, inanç, ibadet, allah, tanrı, dua, maneviyat, kutsal, peygamber, dindar, iman, günah, sevap, ahiret, cennet, cehennem, ilahi, hoca, imam
+İslam: islam, müslüman, muhammed, sünnet, hadis, fıkıh, mezhep, cami, imam, diyanet, ilmihal
+Ramazan ve Oruç: ramazan, oruç, iftar, sahur, teravih, fitre, kadir gece, ramazan bayram
+Namaz: namaz, abdest, secde, rekat, cuma namaz, ezan, kıble
+Hac ve Umre: hac, hacca, umre, kabe, mekke, medine, ihram, tavaf
+Kurban: kurban, kurbanlık, kurban bayram, kurban kes, adak
+Kuran: kuran, sure, ayet, hafız, tefsir, meal, cüz, hatim
+Hristiyanlık: hristiyan, hristiyanlık, kilise, incil, isa, papa, noel, paskalya, katolik, ortodoks, protestan
+Yahudilik: yahudi, yahudilik, sinagog, tevrat, hanuka, musevi
+Uzak Doğu İnançları: budizm, budist, buda, hinduizm, karma, reenkarnasyon, taoizm, nirvana
+Mitoloji: mitoloji, zeus, tanrıça, yunan mitoloji, norse, odin, thor, efsane, türk mitoloji
+Tasavvuf: tasavvuf, sufi, mevlana, yunus emre, tekke, derviş, sema, mesnevi, hacı bektaş
+Kandiller ve Dini Günler: kandil, mevlit, regaip, miraç, berat, aşure
+Ateizm ve Agnostisizm: ateist, ateizm, agnostik, deist, deizm
+Budizm: budizm, buda, nirvana, karma, reenkarnasyon
+Hinduizm: hinduizm, hindu, vişnu, şiva, brahma
+Zekat ve Sadaka: zekat, sadaka, fitre, fidye, hayır
+Camiler ve Kiliseler: cami, kilise, sinagog, mescit, ezan, minare, katedral
+Peygamberler: hz muhammed, hz isa, hz musa, hz ibrahim, peygamber kıssa, siyer
+Mezhepler: mezhep, sünni, şii, alevi, hanefi, şafi, cemevi
+Hadis ve Sünnet: hadis, sünnet, buhari, rivayet
+Ölüm ve Cenaze Törenleri: cenaze, cenaze namaz, mezar, mezarlık, taziye, mevlit, helva dağıt
+Din Eğitimi: din kültür, imam hatip, kuran kurs, ilahiyat, din eğitim
+Melekler ve Metafizik: melek, cin, şeytan, kader, ruh ölüm sonrası
+Din ve Bilim: din bilim, yaratılış, evrim din, akıl iman
+İbadet ve Dualar: dua et, tesbih, zikir, abdest, secde, kıble
+Kutsal Mekanlar: kudüs, vatikan, mescid aksa, mekke, medine ziyaret
+Dini Bayramlar: ramazan bayram, kurban bayram, noel, paskalya, hanuka
+
+[Felsefe]
+*: felsefe, filozof, felsefi, düşünür, varlık, hakikat, felsefe akım, sorgula, bilgelik
+Antik Felsefe: sokrates, platon, eflatun, aristoteles, stoacılık, stoa, epikür, sofist, antik felsefe
+Etik: etik, ahlak, ahlaki, erdem, iyi kötü, vicdan, faydacılık
+Mantık: mantık, önerme, çıkarım, tümdengelim, tümevarım, paradoks, safsata
+Varoluşçuluk: varoluşçuluk, sartre, kierkegaard, absürd, özgür irade, varoluş
+Bilgi Felsefesi: epistemoloji, bilgi felsefe, şüphecilik, descartes, rasyonalizm, empirizm, deneycilik
+Siyaset Felsefesi: siyaset felsefe, hobbes, locke, rousseau, toplum sözleşme, marx, marksizm, liberalizm, sosyalizm, anarşizm
+Zihin Felsefesi: zihin felsefe, qualia, düalizm, zihin beden
+Estetik Felsefesi: estetik, güzellik felsefe, sanat felsefe, yüce
+Doğu Felsefesi: doğu felsefe, konfüçyüs, lao tzu, zen, farabi, ibn sina, gazali, ibn rüşd
+Modern Felsefe: aydınlanma, voltaire, spinoza, hegel, nietzsche, schopenhauer, pozitivizm, postmodern
+Stoacılık: stoacılık, stoa, marcus aurelius, seneca, epiktetos
+Nihilizm: nihilizm, nihilist, anlamsızlık
+Özgür İrade: özgür irade, determinizm, kader felsefe, seçim özgürlük
+Hayatın Anlamı: hayatın anlam, varoluş amacı, yaşam anlam
+Ölüm Felsefesi: ölüm felsefe, ölümlülük, ölüm korku, memento mori
+Ünlü Filozoflar: sokrates, platon, aristoteles, kant, hegel, descartes, spinoza, schopenhauer, farabi, ibn rüşt
+Bilim Felsefesi: bilim felsefe, popper, kuhn, paradigma, yanlışlanabilirlik
+Dil Felsefesi: dil felsefe, wittgenstein, anlam kuram
+Feminist Felsefe: feminist felsefe, simone beauvoir, ikinci cins
+Postmodernizm: postmodernizm, postmodern, foucault, derrida, yapısöküm
+Aydınlanma: aydınlanma, voltaire, rousseau, toplum sözleşme, locke
+Ahlak ve Vicdan: vicdan, ahlak, iyi kötü, ahlaki ikilem, tramvay problem
+Mutluluk Felsefesi: epikür, hedonizm, iyi yaşam, eudaimonia
+Yapay Zeka ve Felsefe: makine bilinç, yapay bilinç, turing test, çin oda
+
+[Toplum ve Kültür]
+*: toplum, toplumsal, kültür, kültürel, sosyal, halk, sosyal hayat, gelenek, toplumsal olay, kuşak, nesil
+Gelenek ve Görenekler: gelenek, görenek, örf adet, töre, örf, geleneksel
+Bayramlar ve Kutlamalar: bayram, yılbaşı, doğum gün, kutlama, hediye, nevruz, hıdırellez, 23 nisan, 29 ekim, cumhuriyet bayram
+Toplumsal Cinsiyet: toplumsal cinsiyet, kadın hak, feminizm, kadına şiddet, cam tavan
+Kentleşme: kent, şehir, kentleşme, şehir hayat, metropol, köy, köyden kente
+Gençlik: gençlik, genç nüfus, z kuşak, y kuşak, gen z
+Kuşaklar ve Yaşlılık: kuşak çatışma, yaşlılık, emekli hayat, boomer
+Gönüllülük ve Yardım: gönüllü, gönüllülük, yardım kampanya, bağış, sivil toplum, stk, dernek, vakıf
+Sosyal Sorunlar: yoksulluk, eşitsizlik, evsiz, suç oran, sosyal sorun
+Folklor: folklor, halk bilim, halk hikaye, nasreddin hoca, karagöz, hacivat, meddah, ninni, mani, destan
+Engelli Hakları: engelli, erişilebilir, işaret dil, tekerlekli sandalye, görme engelli, işitme engelli
+Astroloji ve Fal: burç, astroloji, yükselen burç, koç burç, akrep burç, fal, tarot, kahve fal, horoskop
+Eşitsizlik ve Yoksulluk: eşitsizlik, yoksulluk, gelir dağılım, sosyal eşitsizlik, evsiz
+Irkçılık ve Ayrımcılık: ırkçılık, ayrımcılık, yabancı düşmanlık, nefret söylem
+Kadın Hakları: kadın hak, feminizm, kadın cinayet, eşit ücret, kadına şiddet
+Sosyoloji: sosyoloji, sosyolog, toplumsal yapı, sosyal sınıf, durkheim
+Antropoloji: antropoloji, antropolog, kabile, etnografi, ilkel toplum
+Görgü Kuralları: görgü kural, nezaket, sofra adab, etiket kural, kibarlık
+Popüler Kültür: popüler kültür, pop kültür, trend olay, viral, meme
+Alt Kültürler: alt kültür, punk, gotik kültür, hippi, emo
+Köy ve Kent Yaşamı: köy hayat, köy yaşam, kent hayat, şehir hayat, köye dönüş
+Kültürel Miras: kültürel miras, unesco, somut olmayan miras, tarihi eser koru
+Tüketim Kültürü: tüketim kültür, tüketim çılgın, marka bağımlılık
+Nezaket ve Komşuluk Kültürü: misafirperverlik, misafir, ikram, kahve fal
+Z Kuşağı ve Milenyumlar: z kuşak, y kuşak, milenyum kuşak, boomer, alfa kuşak
+Emeklilik Hayatı: emekli hayat, emeklilik yaşam, emekli ol
+Göç ve Kültürel Uyum: kültürel uyum, gurbet, gurbetçi, yurt dışında yaşa, beyin göç
+Türk Kültürü: türk kültür, nazar boncuk, çay kültür, hamam kültür
+
+[Medya ve İletişim]
+*: medya, iletişim, haber, basın, yayın, takipçi, gündem, manşet, yayın organ, gönderi
+Sosyal Medya: sosyal medya, instagram, twitter, tiktok, facebook, takipçi, beğeni, hashtag, story, reels
+YouTube ve İçerik Üretimi: youtube, youtuber, içerik üretici, video çek, abone, vlog, montaj, video düzenle
+Gazetecilik: gazeteci, gazetecilik, muhabir, röportaj, manşet, gazete, köşe yazar
+Haber ve Gündem: gündem, son dakika haber, haber bülten, ana haber, flaş haber
+Reklamcılık: reklam, reklamcı, reklam ajans, slogan, televizyon reklam, billboard
+Podcast: podcast, podcaster, sesli yayın, podcast bölüm
+Radyo: radyo, radyo program, fm, frekans
+Dergiler: dergi, magazin dergi, aylık dergi
+Dezenformasyon: sahte haber, yalan haber, dezenformasyon, teyit, manipülasyon, komplo teori
+Influencer Kültürü: influencer, fenomen, sosyal medya fenomen, iş birliği, reklam içerik
+Magazin: magazin, ünlüler, ünlü oyuncu, ünlü şarkıcı, ünlü isim, paparazzi, dedikodu, magazin haber, kırmızı halı, sosyete
+Instagram: instagram, story, reels, hikaye paylaş, insta
+TikTok: tiktok, akım video, kısa video, tiktok trend
+X ve Twitter: twitter, tweet, x platform, retweet, trend topic, etiket
+Televizyon Kanalları: tv kanal, trt, haber kanal, televizyon yayın, rtük
+Haber Siteleri ve Dijital Gazetecilik: haber sitesi, dijital gazetecilik, internet haber, clickbait
+Blog Yazarlığı: blog, blogger, blog yazı, medium
+Halkla İlişkiler: halkla ilişki, iletişim ajans, itibar yönetim, kriz yönetim
+İletişim Becerileri: iletişim beceri, etkili iletişim, beden dil, dinleme beceri, empati kur
+Mesajlaşma Kültürü: mesaj at, görüldü, sesli mesaj, emoji, grup sohbet
+Kişisel Veri ve Gizlilik: gizlilik, kişisel veri, veri sızıntı, çerez, takip etme reklam
+Sansür ve Erişim Engeli: erişim engel, vpn, yasaklandı site, bant daralt, sansür internet
+Yayıncılık ve Radyo Tiyatrosu: yayıncılık, radyo tiyatro, yayın akış
+Fotoğraf ve Video Paylaşımı: video paylaş, fotoğraf paylaş, filtre, video kurgu, montaj
+
+[Askeri ve Savunma]
+*: askeri, asker, ordu, savunma, silahlı kuvvet, tsk, harp, askeri güç, silah, cephe, operasyon, komutan, er, subay, harekat
+Savunma Sanayii: savunma sanayi, aselsan, roketsan, tusaş, baykar, havelsan, yerli silah
+Askerlik: askerlik, bedelli, celp, yedek subay, şafak, acemi birlik, tezkere
+İHA ve SİHA: iha, siha, bayraktar, akıncı, tb2, kızılelma, insansız hava araç
+Savaş Uçakları: savaş uçak, f16, f35, kaan, hürjet, eurofighter, avcı uçak
+Deniz Kuvvetleri: deniz kuvvet, savaş gemi, denizaltı, fırkateyn, tcg anadolu, uçak gemi
+Füze ve Hava Savunma: füze, balistik, hava savunma, s400, patriot, hisar
+Kara Kuvvetleri: tank, altay tank, zırhlı araç, kara kuvvet, obüs
+Nükleer Silahlar: nükleer silah, atom bomba, nükleer füze, nükleer caydırıcılık, hiroşima bomba
+Tanklar ve Zırhlı Araçlar: tank, altay tank, zırhlı araç, leopard tank, obüs
+Denizaltılar ve Savaş Gemileri: denizaltı, fırkateyn, korvet, uçak gemi, tcg anadolu, muhrip
+Özel Kuvvetler: özel kuvvet, bordo bere, komando, mavi bere, özel harekat
+İstihbarat: istihbarat, mit, casus, casusluk, cia, mossad, kgb
+Siber Savaş: siber savaş, siber saldırı devlet, hibrit savaş
+Askeri Okullar: harp okul, askeri lise, milli savunma üniversite, astsubay
+Bedelli Askerlik: bedelli askerlik, dövizle askerlik, askerlik yoklama, sevk tarih, celp
+Barış Gücü ve Uluslararası Görevler: barış güç, barış gücü, bm görev
+Hava Kuvvetleri: hava kuvvet, f16, f35, kaan, savaş pilot, hürjet
+Askeri Tarih ve Strateji: askeri strateji, sun tzu, savaş sanat, askeri taktik
+
+[Hobiler]
+*: hobi, boş zaman, uğraş, hobim, boş vakit, keyif al, uğraşı
+Örgü ve Dikiş: örgü, tığ, yün, dikiş, dikiş makine, nakış, gobelen, amigurumi, ördüm, örüyorum, örmeyi
+Koleksiyonculuk: koleksiyon, koleksiyoncu, pul, antika, eski para, figür, plak, madeni para, para koleksiyon
+Balık Tutma: misina, amatör balıkçılık, lrf, olta takım, balık tutma
+Maket ve Model: maket, model uçak, lego, diorama, rc araba, uzaktan kumanda
+Origami ve Kağıt İşleri: origami, kağıt katlama, kirigami, scrapbook
+Günlük Tutma: günlük tut, günlük yaz, ajanda, bullet journal, not defter
+Kaligrafi: kaligrafi, güzel yazı, dolma kalem, el yazı
+Ahşap İşleri: ahşap, marangoz, ahşap oyma, testere, ahşap boya
+Kuş Gözlemciliği: kuş gözlem, dürbün, ornitoloji, kuş gözlemci
+El Yapımı Ürünler: mum yapım, sabun yapım, epoksi, reçine, takı tasarım
+Sihirbazlık: sihirbaz, sihirbazlık, illüzyon, kart numara, göz yanılsama
+Lego ve Yapı Setleri: lego, yapı set, lego set, lego koleksiyon
+Rubik Küpü ve Zeka Oyuncakları: rubik küp, zeka küp, zeka oyuncak, sabır oyun
+Puzzle: puzzle, yapboz, 1000 parça, puzzle yap
+Nakış ve Tığ İşi: nakış, tığ iş, dantel, kanaviçe, etamin, amigurumi
+Amatör Astronomi: amatör astronomi, gökyüzü gözlem, yıldız gözlem, teleskop al
+Metal Dedektörü ve Define: metal dedektör, define, defineci
+Cosplay: cosplay, kostüm, cosplay etkinlik, anime kostüm
+Taş Boyama ve Resin: taş boyama, resin sanat, ahşap boyama
+Kitap Ciltleme ve Kağıt Sanatları: ciltleme, kağıt sanat, scrapbook, bullet journal
+Model Uçak ve RC Araçlar: rc araba, uzaktan kumandalı, model uçak, rc helikopter
+Ev Yapımı Kozmetik: doğal sabun, ev yapımı krem, parfüm yap, doğal kozmetik
+Bitki Toplama ve Kurutma: bitki kurut, çiçek kurut, herbaryum, ot topla
+Dans Kursu: dans kurs, salsa, tango, bachata, zeybek, halay
+Mangal ve Açık Hava Hobileri: bushcraft, doğada hayatta kal, kamp ateş, izcilik
+Satranç Problemleri ve Zeka: zeka soru, zeka bulmaca, mantık bulmaca, sudoku
+
+[Mimarlık ve İnşaat]
+*: mimarlık, mimar, mimari, bina, inşaat, yapılaşma, bina yap, proje çiz, konut proje, gökdelen
+Mimari Akımlar ve Yapılar: mimar sinan, gotik, modern mimari, gökdelen, süleymaniye, selimiye, zaha hadid
+İnşaat Sektörü: inşaat firma, müteahhit, şantiye, beton, çimento, iskele, kaba inşaat
+Kentsel Dönüşüm: kentsel dönüşüm, riskli yapı, yıkım, yeniden yapım
+İç Mimarlık: iç mimar, iç mimarlık, iç tasarım, mekan tasarım
+Yapı Malzemeleri: tuğla, briket, çelik, alçı, yapı malzeme, inşaat demir
+Yapı Güvenliği: deprem yönetmelik, depreme dayanıklı, zemin etüt, karot, güçlendirme, statik proje
+Peyzaj Mimarlığı: peyzaj, peyzaj mimar, park tasarım, yeşil alan, bahçe tasarım
+Restorasyon: restorasyon, restore, tarihi yapı, rölöve
+Sürdürülebilir Mimari: yeşil bina, leed, sürdürülebilir mimari, ekolojik mimari, pasif ev
+Konut Projeleri: konut proje, rezidans, site proje, toki, kentsel proje
+Osmanlı Mimarisi: osmanlı mimari, külliye, kervansaray, han mimari, cami mimari
+Ünlü Yapılar: eyfel kule, burj khalifa, galata kule, kız kule, ayasofya, tac mahal
+Ahşap ve Prefabrik Yapılar: prefabrik, ahşap ev, konteyner ev, tiny house, çelik ev
+Tadilat ve Renovasyon: renovasyon, bina güçlendir, cephe yenile, çatı tamir
+Mimarlık Eğitimi: mimarlık fakülte, mimarlık öğrenci, maket yap, autocad, revit, sketchup
+Şehir Planlama: şehir planlama, imar plan, kent planlama, şehir plancı, yeşil alan plan
+Yol ve Köprü İnşaatı: köprü inşaat, tünel, otoyol inşaat, asfalt, viyadük
+Çatı ve Cephe: çatı, kiremit, cephe kaplama, mantolama, dış cephe
+
+[Hava Durumu]
+*: hava durum, hava tahmin, meteoroloji, hava sıcaklık, santigrat, kaç derece, hava, havalar
+Yağmur ve Yağış: yağmur, yağış, sağanak yağış, şemsiye, ıslandım, yağmurlu
+Kar ve Soğuk Hava: kar, kar yağış, kar tatil, don, buzlanma, soğuk hava, ayaz, kış soğuk, soğuk, buz tut, soğuktu
+Sıcak Hava: sıcak hava, bunaltıcı, nem oran, sıcak bastı, kavurucu, klima açtım, havalar ısın, sıcak, sıcaktan, termometre
+Rüzgar ve Fırtına: rüzgar, lodos, poyraz, fırtına uyarı, kuvvetli rüzgar
+Sis ve Görüş: sis, puslu, görüş mesafe
+Mevsimler: ilkbahar, sonbahar, yaz mevsim, kış mevsim, mevsim geçiş, pastırma yaz
+Meteorolojik Uyarılar: turuncu kod, sarı kod, meteorolojik uyarı, kuvvetli yağış uyarı
+Güneşli Hava: güneşli, açık hava, güzel hava, bulutsuz, güneş açtı
+Bulutlar ve Gökyüzü: bulut, bulutlu, kapalı hava, gök gürültü, şimşek, yıldırım, gökkuşağı
+
+[Asayiş ve Suç]
+*: polis, jandarma, asayiş, suçlu, şüpheli, olay yer, güvenlik güç, emniyet
+Hırsızlık: hırsız, hırsızlık, çalındı, soygun, kapkaç, yankesici, ev soy, çaldılar, çalmışlar, çalınmış, cüzdan çal
+Dolandırıcılık: dolandırıcı, dolandırıcılık, sahte, telefon dolandırıcılık, kandırıldım, tuzak, kimlik hırsız, dolandır
+Siber Dolandırıcılık: sahte site, sms dolandırıcılık, kart kopyala, hesap boşalt, internet dolandırıcılık
+Cinayet ve Şiddet Olayları: cinayet, katil, öldürüldü, bıçaklı saldırı, silahlı saldırı, yaralama
+Kadına ve Aile İçi Şiddet: aile içi şiddet, kadına şiddet, uzaklaştırma karar, kades, şiddet gör
+Kayıp Kişiler: kayıp kişi, kayboldu, kayıp çocuk, kayıp ilan, aranıyor
+Uyuşturucu ile Mücadele: uyuşturucu, narkotik, uyuşturucu operasyon, madde bağımlılık, torbacı
+Organize Suç: organize suç, mafya, çete, suç örgüt, tefeci
+Trafik Suçları: alkollü araç, hız ihlal, drift ceza, makas atma, trafik terör
+Güvenlik Önlemleri: hırsız alarm, alarm sistem, güvenlik kamera, kilit değiştir, çelik kapı, bekçi, özel güvenlik
+Polis ve Jandarma Teşkilatı: polis teşkilat, emniyet müdürlük, karakol, jandarma komutanlık, 155, 112 acil
+Siber Zorbalık ve Taciz: siber zorbalık, taciz, ısrarlı takip, tehdit, şantaj
+Adli Süreçler: ifade ver, şikayet et, suç duyuru, karakola git, tutanak, adli tıp
+
+[Eğlence ve Etkinlikler]
+*: eğlence, eğlen, etkinlik, organizasyon, keyif, hafta sonu plan, dışarı çık, gezme eğlence
+Stand-up ve Gösteriler: stand up, stand up gösteri, komedyen, talk show
+Gece Hayatı: gece hayat, gece kulüp, bar, parti, dj, dans et
+Lunapark ve Tema Parkları: lunapark, tema park, disneyland, vialand, hız tren, dönme dolap
+Doğum Günü ve Partiler: doğum gün, parti, doğum gün parti, pasta kes, sürpriz parti, balon süsle
+Piknik: piknik, piknik alan, mangal yap, piknik sepet, çimlerde
+Kaçış Oyunları: kaçış oyun, escape room, fear room, korku evi
+Karaoke: karaoke, karaoke bar
+Sirk ve Gösteri Sanatları: sirk, akrobat, jonglör, palyaço, illüzyon gösteri
+Festivaller: festival, müzik festival, yemek festival, fuar gezi, bahar şenlik
+Bowling ve Oyun Salonları: oyun salon, bowling salon, atari salon, playstation cafe, bilardo salon
+Kafe ve Mekan Keşfi: kafe, mekan, kahve dükkan, yeni mekan, brunch mekan, rooftop
+Çocuk Etkinlikleri: çocuk etkinlik, oyun park, çocuk tiyatro, çocuk atölye, kidzania
+Sinema ve Tiyatro Geceleri: sinemaya git, tiyatroya git, bilet al, gösteri bilet
+Kutlamalar ve Yılbaşı: yılbaşı, yılbaşı gece, kutlama, havai fişek, geri sayım, yeni yıl
+Arkadaş Buluşmaları: arkadaş buluşma, buluştuk, takıldık, muhabbet, sohbet et, kahve iç
+
+[Resmi İşler ve Bürokrasi]
+*: resmi iş, bürokrasi, başvuru, belge, evrak, dilekçe ver, randevu al, kamu kurum, devlet daire
+e-Devlet İşlemleri: edevlet, e devlet, şifre edevlet, barkodlu belge
+Nüfus ve Kimlik İşlemleri: kimlik kart, nüfus müdürlük, kimlik yenile, nüfus kayıt, ikametgah, adres kayıt
+Pasaport İşlemleri: pasaport başvuru, pasaport harç, pasaport randevu, pasaport yenile
+Ehliyet İşlemleri: ehliyet yenile, ehliyet değiştir, sürücü belge başvuru
+Tapu İşlemleri: tapu işlem, tapu randevu, tapu harç, tapu müdürlük
+Vergi Dairesi İşlemleri: vergi daire, vergi borç, vergi beyanname, gib, interaktif vergi, vergi levha, efatura başvuru, edefter başvuru, eimza
+SGK İşlemleri: sgk, hizmet döküm, sgk borç, emeklilik başvuru, sigorta giriş, bağkur
+Belediye İşlemleri: belediye, ruhsat, iskan, çöp vergi, emlak vergi, belediye başvuru
+Askerlik Şubesi İşlemleri: askerlik şube, yoklama, tecil, sevk erteleme
+Harçlar ve Ücretler: harç, harç ücret, değerli kağıt, pul, makbuz
+Resmi Yazışmalar: resmi yazı, dilekçe örnek, cimer, şikayet başvuru
+Vize ve Konsolosluk İşlemleri: konsolosluk, vize randevu, vize evrak, vfs, idata
+İkamet ve Çalışma İzni İşlemleri: ikamet izin başvuru, göç idare, yabancı çalışma izin
+Adli Sicil ve Belgeler: adli sicil, sabıka kayıt, öğrenci belge, transkript onay, apostil
+
+[Alışveriş ve Tüketim]
+*: alışveriş, satın al, ürün, fiyat, mağaza, sipariş ver, tüketici, müşteri, sipariş
+Market Alışverişi: market, bim, a101, şok market, migros, carrefour, market alışveriş, manav, kasap
+İndirim ve Kampanyalar: indirim, kampanya, kupon kod, black friday, efsane cuma, sezon indirim, fırsat
+İnternetten Alışveriş: online alışveriş, internetten al, trendyol, hepsiburada, amazon, sepet, n11
+İade ve Değişim: iade, ürün iade, değişim, para iade, iade kod
+AVM ve Mağazalar: avm, alışveriş merkez, mağaza gez, vitrin, outlet
+Semt Pazarı: pazar alışveriş, pazara git, semt pazar, pazarcı, köylü pazar, organik pazar
+Elektronik Ürün Alışverişi: teknosa, mediamarkt, vatan bilgisayar, elektronik mağaza, telefon al
+Fiyat Karşılaştırma: fiyat karşılaştır, akakçe, cimri, ucuz, fiyat takip
+Hediye Alışverişi: hediye al, hediye fikir, hediye paket, hediye çeki
+İkinci El Alışveriş: ikinci el, sahibinden, letgo, ikinci el sat
+Taksit ve Ödeme Seçenekleri: taksit, peşin, kredi kart ödeme, kapıda ödeme, havale
+Ürün Yorumları ve Kalite: ürün yorum, kullanıcı yorum, kalite, sahte ürün, orijinal ürün
+Mobilya ve Ev Alışverişi: ikea, koçtaş, mobilya al, ev eşya al, çeyiz
+Toptan ve Perakende: toptan, perakende, toptancı, zincir mağaza
+Kargo ve Teslimat: kargo, ptt, posta, kargo takip, kargo gecikti, gönderi, koli gönder
+
+[Diller ve Dilbilim]
+*: dil, dilbilim, dilbilgi, konuşma dil, yabancı dil
+İngilizce: ingilizce, ingilizce konuş, ingilizce kelime, phrasal verb, tense, ingiliz aksan, amerikan aksan
+Almanca: almanca, alman dil, almanca artikel, der die das, goethe
+Fransızca: fransızca, fransız dil, fransızca telaffuz
+İspanyolca ve İtalyanca: ispanyolca, italyanca, portekizce, latin dil
+Arapça ve Farsça: arapça, farsça, osmanlıca, arap alfabe
+Rusça ve Slav Dilleri: rusça, kiril alfabe, lehçe dil, sırpça, bulgarca
+Japonca, Korece ve Çince: japonca, korece, çince, hangul, kanji, hiragana, mandarin
+Türkçe Dil Bilgisi: türkçe, dil bilgi, yazım kural, noktalama, tdk, imla, ek fiil, ünlü uyum
+Etimoloji: etimoloji, kelime köken, köken, türet, kök kelime
+İşaret Dili: işaret dil, işitme engelli iletişim
+Çeviri ve Tercümanlık: çeviri, tercüman, tercüme, çevirmen, google çeviri, simultane
+Lehçeler ve Ağızlar: lehçe, şive, yöresel ağız, karadeniz şive, azerice, kazakça, özbekçe
+Dil Öğrenme Yöntemleri: dil öğren, dil öğrenme yöntem, duolingo, dil değişim, kelime kart, dizi izleyerek dil
+Yapay ve Ölü Diller: esperanto, latince, sanskritçe, klingon, ölü dil
+Dil ve Beyin: iki dilli, dilli, dil edinim, dil gelişim, konuşma gecikme
+Alfabeler ve Yazı Sistemleri: alfabe, harf, yazı sistem, hiyeroglif, latin alfabe
+
+[Mühendislik]
+*: mühendislik, mühendis, tasarım proje, mekanizma, sistem tasarım, prototip
+İnşaat Mühendisliği: inşaat mühendislik, statik, betonarme, yapı mühendislik, zemin mekanik
+Makine Mühendisliği: makine mühendislik, makine tasarım, motor tasarım, termodinamik mühendislik, cnc
+Elektrik ve Elektronik Mühendisliği: elektrik elektronik, devre, devre tasarım, arduino, mikrodenetleyici, transistör, pcb
+Endüstri Mühendisliği: endüstri mühendislik, optimizasyon, üretim planlama, yalın üretim, kalite kontrol
+Kimya Mühendisliği: kimya mühendislik, rafineri, kimyasal proses, reaktör tasarım
+Bilgisayar Mühendisliği: bilgisayar mühendislik, bilgisayar mimari, gömülü sistem, algoritma tasarım
+Malzeme Bilimi: malzeme bilim, metalurji, alaşım, kompozit, seramik malzeme
+Havacılık ve Uzay Mühendisliği: havacılık mühendislik, uçak tasarım, aerodinamik, roket motor, jet motor
+Biyomedikal Mühendislik: biyomedikal, protez, tıbbi cihaz, biyomalzeme, mr cihaz
+Otomasyon ve Kontrol: otomasyon, plc, kontrol sistem, scada, sensör, pid
+Mekatronik: mekatronik, servo motor, step motor, robot kol
+Enerji Sistemleri Mühendisliği: enerji sistem mühendislik, güç sistem, trafo merkez, yüksek gerilim
+Çevre Mühendisliği: çevre mühendislik, arıtma tesis, atıksu, katı atık yönetim
+Harita ve Geomatik: harita mühendislik, geomatik, cbs, tapu kadastro
+Teknik Çizim ve CAD: teknik çizim, cad, solidworks, catia, autocad, 3d modelleme

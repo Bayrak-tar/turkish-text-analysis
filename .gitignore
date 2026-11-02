@@ -1,0 +1,14 @@
+# Local application data
+kayitlar.db
+*.db-journal
+
+# Python cache and virtual environments
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Local environment variables
+.env
+.env.*
+!.env.example

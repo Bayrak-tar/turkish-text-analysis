@@ -1,0 +1,20 @@
+[
+  {"metin":"Kuantum mekaniğinde fotonların süperpozisyonu ve dolanıklığı incelenir.","genel_konu":"Bilim","alt_konular":["Bilim > Kuantum Mekaniği"]},
+  {"metin":"Hücre ve organizma yapıları biyolojinin konusudur.","genel_konu":"Bilim","alt_konular":["Bilim > Biyoloji"]},
+  {"metin":"Genetik araştırmasında DNA üzerindeki kalıtım ve kromozom ilişkisi ele alındı.","genel_konu":"Bilim","alt_konular":["Bilim > Genetik"]},
+  {"metin":"Kuantum bilgisayarlar kübit ve kuantum işlemci kullanır.","genel_konu":"Teknoloji","alt_konular":["Teknoloji > Kuantum Bilgisayarlar"]},
+  {"metin":"Python ve Java programlama dilleri ile yazılım geliştiriyorum.","genel_konu":"Teknoloji","alt_konular":["Teknoloji > Programlama Dilleri"]},
+  {"metin":"Yapay zeka ve büyük dil modeli kullanılarak sohbet robotu geliştirildi.","genel_konu":"Teknoloji","alt_konular":["Teknoloji > Yapay Zeka"]},
+  {"metin":"Kitap okumak için kütüphaneden yeni kitaplar seçtim.","genel_konu":"Edebiyat ve Kitaplar","alt_konular":["Edebiyat ve Kitaplar > Kitaplar"]},
+  {"metin":"Roman karakterlerinin yaşamını ve olay örgüsünü inceliyorum.","genel_konu":"Edebiyat ve Kitaplar","alt_konular":["Edebiyat ve Kitaplar > Roman"]},
+  {"metin":"Bilimsel araştırma laboratuvarda bilim insanları tarafından yürütülüyor.","genel_konu":"Bilim","alt_konular":[]},
+  {"metin":"Kuantum mekaniğinde durum vektörü için ketnotasyonu kullanılır.","genel_konu":"Bilim","alt_konular":["Bilim > Kuantum Mekaniği"],"terimler":["ketnotasyonu"]},
+  {"metin":"Biyoloji dersinde canlıların hücrelerini mikroskopla gözlemledik.","genel_konu":"Bilim","alt_konular":["Bilim > Biyoloji"]},
+  {"metin":"Genetik alanında genom ve mutasyon araştırmaları yapılıyor.","genel_konu":"Bilim","alt_konular":["Bilim > Genetik"]},
+  {"metin":"Yeni kuantum işlemci daha fazla kübit ile hesaplama yapıyor.","genel_konu":"Teknoloji","alt_konular":["Teknoloji > Kuantum Bilgisayarlar"]},
+  {"metin":"Rust ve Kotlin programlama dillerini öğreniyorum.","genel_konu":"Teknoloji","alt_konular":["Teknoloji > Programlama Dilleri"]},
+  {"metin":"Üretken yapay zeka uygulaması büyük dil modeli kullanıyor.","genel_konu":"Teknoloji","alt_konular":["Teknoloji > Yapay Zeka"]},
+  {"metin":"Kitap okumayı seviyorum ve kitaplar hakkında konuşmak istiyorum.","genel_konu":"Edebiyat ve Kitaplar","alt_konular":["Edebiyat ve Kitaplar > Kitaplar"]},
+  {"metin":"Roman okumak ve roman karakterlerini tartışmak hoşuma gidiyor.","genel_konu":"Edebiyat ve Kitaplar","alt_konular":["Edebiyat ve Kitaplar > Roman"]},
+  {"metin":"Bilimsel çalışmalar ve bilim tarihi hakkında araştırma yapıyorum.","genel_konu":"Bilim","alt_konular":[]}
+]
